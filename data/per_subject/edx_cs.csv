@@ -1,0 +1,889 @@
+Link,Title,Provider,Rating,Num_Reviewer,Workload,platform,subject
+/course/edx-cybersecurity-fundamentals-7844,Cybersecurity Fundamentals,/university/rit,Five out of five stars,25 reviews,"
+            10-12 hours a week, 8 weeks long
+          ",edx,cs
+/course/edx-fundamentos-tic-para-profesionales-de-negocios-aplicaciones-empresariales-7475,Fundamentos TIC para profesionales de negocios: Aplicaciones empresariales,/university/upv,Five out of five stars,16 reviews,"
+            3-6 hours a week, 4 weeks long
+          ",edx,cs
+/course/edx-cs188-1x-artificial-intelligence-445,CS188.1x: Artificial Intelligence,/university/berkeley,Five out of five stars,30 reviews,"
+            12 weeks long
+          ",edx,cs
+/course/edx-cs50-s-computer-science-for-business-professionals-10143,CS50's Computer Science for Business Professionals,/university/harvard,Five out of five stars,11 reviews,"
+            2-6 hours a week, 6 weeks long
+          ",edx,cs
+/course/edx-cs50-s-introduction-to-computer-science-442,CS50's Introduction to Computer Science,/university/harvard,Four and a half out of five stars,138 reviews,"
+            6-18 hours a week, 12 weeks long
+          ",edx,cs
+/course/edx-computer-hardware-and-operating-systems-17998,Computer Hardware and Operating Systems,/university/nyu,Five out of five stars,9 reviews,"
+            3-5 hours a week, 6 weeks long
+          ",edx,cs
+/course/edx-unix-tools-data-software-and-production-engineering-18180,"Unix Tools: Data, Software and Production Engineering",/university/delft,Five out of five stars,11 reviews,"
+            4-6 hours a week, 6 weeks long
+          ",edx,cs
+/course/data-structures-algorithms-i-arraylists-linkedlis-23256,"Data Structures & Algorithms I: ArrayLists, LinkedLists, Stacks and Queues",/university/gatech,Five out of five stars,11 reviews,"
+            9-10 hours a week, 5 weeks long
+          ",edx,cs
+/course/edx-human-computer-interaction-i-fundamentals-design-principles-14444,Human-Computer Interaction I: Fundamentals & Design Principles,/university/gatech,Five out of five stars,11 reviews,"
+            5-6 hours a week, 6 weeks long
+          ",edx,cs
+/course/edx-introduccion-al-diseno-de-hardware-con-verilog-11782,Introducción al diseño de hardware con Verilog,/university/galileo,Four and a half out of five stars,38 reviews,"
+            6-8 hours a week, 5 weeks long
+          ",edx,cs
+/course/cadena-de-bloques-e-internet-de-las-cosas-48101,Blockchain e internet de las cosas,/university/galileo,Five out of five stars,10 reviews,"
+            4-5 hours a week, 4 weeks long
+          ",edx,cs
+/course/edx-introduccion-a-la-programacion-en-c-tipos-de-datos-y-estructuras-12156,Introducción a la programación en C: Tipos de datos y estructuras,/university/uam,Four and a half out of five stars,22 reviews,"
+            3-5 hours a week, 5 weeks long
+          ",edx,cs
+/course/edx-fundamentos-tic-para-profesionales-de-negocios-hardware-8086,Fundamentos TIC para profesionales de negocios: Hardware,/university/upv,Four and a half out of five stars,34 reviews,"
+            3-6 hours a week, 4 weeks long
+          ",edx,cs
+/course/edx-introduction-to-computer-science-and-programming-using-python-1341,Introduction to Computer Science and Programming Using Python,/university/mit,Four and a half out of five stars,128 reviews,"
+            14-16 hours a week, 9 weeks long
+          ",edx,cs
+/course/edx-cs190-1x-scalable-machine-learning-2965,CS190.1x: Scalable Machine Learning,/university/berkeley,Four and a half out of five stars,31 reviews,"
+            5 weeks long
+          ",edx,cs
+/course/edx-cs50-s-understanding-technology-10142,CS50's Understanding Technology,/university/harvard,Five out of five stars,9 reviews,"
+            2-6 hours a week, 6 weeks long
+          ",edx,cs
+/course/gestion-de-proyectos-informaticos-27994,Introducción a la gestión de proyectos informáticos,/university/uam,Five out of five stars,7 reviews,"
+            4-5 hours a week, 5 weeks long
+          ",edx,cs
+/course/edx-introduction-to-computing-using-python-7622,Introduction to Computing using Python,/university/gatech,Five out of five stars,5 reviews,"
+            16 weeks long
+          ",edx,cs
+/course/edx-data-structures-an-active-learning-approach-10436,Data Structures: An Active Learning Approach,/university/ucsd,Five out of five stars,5 reviews,"
+            6-7 hours a week, 10 weeks long
+          ",edx,cs
+/course/edx-paradigms-of-computer-programming-fundamentals-2298,Paradigms of Computer Programming – Fundamentals,/university/uclouvain,Five out of five stars,5 reviews,"
+            4-6 hours a week, 6 weeks long
+          ",edx,cs
+/course/edx-cs50-s-computer-science-for-lawyers-16857,CS50's Computer Science for Lawyers,/university/harvard,Five out of five stars,5 reviews,"
+            3-6 hours a week, 10 weeks long
+          ",edx,cs
+/course/edx-sparse-representations-in-image-processing-from-theory-to-practice-9135,Sparse Representations in Image Processing: From Theory to Practice,/university/technion,Five out of five stars,5 reviews,"
+            5-6 hours a week, 5 weeks long
+          ",edx,cs
+/course/data-structures-algorithms-ii-binary-trees-heaps--23255,"Data Structures & Algorithms II: Binary Trees, Heaps, SkipLists and HashMaps",/university/gatech,Five out of five stars,5 reviews,"
+            9-10 hours a week, 5 weeks long
+          ",edx,cs
+/course/edx-aprendizaje-automatico-machine-learning-y-ciencia-de-datos-12250,Aprendizaje automático (machine learning) y ciencia de datos,/university/upv,Four and a half out of five stars,27 reviews,"
+            4-5 hours a week, 5 weeks long
+          ",edx,cs
+/course/edx-codificacion-de-audio-mas-alla-del-mp3-8727,Codificación de audio: Más allá del MP3,/university/upv,Five out of five stars,8 reviews,"
+            4-5 hours a week, 5 weeks long
+          ",edx,cs
+/course/edx-network-security-7858,Network Security,/university/rit,Five out of five stars,8 reviews,"
+            10-12 hours a week, 8 weeks long
+          ",edx,cs
+/course/edx-learning-from-data-introductory-machine-learning-1240,Learning From Data (Introductory Machine Learning),/university/caltech,Four and a half out of five stars,21 reviews,"
+            10-20 hours a week, 10 weeks long
+          ",edx,cs
+/course/edx-cs50-s-introduction-to-artificial-intelligence-with-python-18122,CS50's Introduction to Artificial Intelligence with Python,/university/harvard,Four and a half out of five stars,11 reviews,"
+            10-30 hours a week, 7 weeks long
+          ",edx,cs
+/course/edx-6-00x-introduction-to-computer-science-and-programming-446,6.00x: Introduction to Computer Science and Programming,/university/mit,Four and a half out of five stars,11 reviews,"
+            8 weeks long
+          ",edx,cs
+/course/edx-cs-for-all-introduction-to-computer-science-and-python-programming-3483,CS For All: Introduction to Computer Science and Python Programming,/university/hmc,Five out of five stars,4 reviews,"
+            5-7 hours a week, 14 weeks long
+          ",edx,cs
+/course/edx-introduccion-a-la-inteligencia-artificial-principales-algoritmos-17247,Introducción a la Inteligencia Artificial: Principales Algoritmos,/university/galileo,Four and a half out of five stars,21 reviews,"
+            4-5 hours a week, 4 weeks long
+          ",edx,cs
+/course/edx-introduccion-a-la-programacion-en-c-instrucciones-de-control-y-ficheros-de-texto-12157,Introducción a la programación en C: Instrucciones de control y ficheros de texto,/university/uam,Four and a half out of five stars,7 reviews,"
+            3-5 hours a week, 5 weeks long
+          ",edx,cs
+/course/introduccion-a-linux-58665,Introducción a Linux,/university/upv,Four and a half out of five stars,7 reviews,"
+            5-7 hours a week, 14 weeks long
+          ",edx,cs
+/course/edx-modelos-predictivos-con-machine-learning-17110,Modelos predictivos con Machine Learning,/university/anahuac,Four and a half out of five stars,13 reviews,"
+            6-8 hours a week, 4 weeks long
+          ",edx,cs
+/course/edx-aplicaciones-de-la-teoria-de-grafos-a-la-vida-real-i-3639,Aplicaciones de la Teoría de Grafos a la Vida Real (I),/university/upv,Four and a half out of five stars,16 reviews,"
+            3-4 hours a week, 4 weeks long
+          ",edx,cs
+/course/edx-software-construction-in-java-6469,Software Construction in Java,/university/mit,Five out of five stars,5 reviews,"
+            12 weeks long
+          ",edx,cs
+/course/introduccion-al-internet-de-las-cosas-23289,Introducción al Internet de las Cosas,/university/galileo,Five out of five stars,5 reviews,"
+            4-5 hours a week, 5 weeks long
+          ",edx,cs
+/course/edx-advanced-machine-learning-19187,Advanced Machine Learning,/university/itmo,Four and a half out of five stars,6 reviews,"
+            2-4 hours a week, 5 weeks long
+          ",edx,cs
+/course/edx-fundamentos-tic-para-profesionales-de-negocios-desarrollo-de-software-8495,Fundamentos TIC para profesionales de negocios: Desarrollo de Software,/university/upv,Four and a half out of five stars,26 reviews,"
+            3-6 hours a week, 3 weeks long
+          ",edx,cs
+/course/edx-human-computer-interaction-ii-cognition-context-culture-14445,"Human-Computer Interaction II: Cognition, Context & Culture",/university/gatech,Five out of five stars,3 reviews,"
+            5-6 hours a week, 6 weeks long
+          ",edx,cs
+/course/edx-arduino-programming-from-novice-to-ninja-11409,"Arduino Programming, from novice to ninja",/university/fr-mines-telecom,Five out of five stars,4 reviews,"
+            2-3 hours a week, 4 weeks long
+          ",edx,cs
+/course/edx-deep-learning-21172,Deep Learning,/university/anahuac,Four and a half out of five stars,12 reviews,"
+            6-8 hours a week, 4 weeks long
+          ",edx,cs
+/course/edx-introduction-to-networking-17999,Introduction to Networking,/university/nyu,Four and a half out of five stars,16 reviews,"
+            3-5 hours a week, 7 weeks long
+          ",edx,cs
+/course/edx-how-to-code-complex-data-3464,How to Code: Complex Data,/university/ubc,Five out of five stars,2 reviews,"
+            2-3 hours a week, 6 weeks long
+          ",edx,cs
+/course/edx-c-programming-pointers-and-memory-management-11533,C Programming: Pointers and Memory Management,/university/dartmouth,Five out of five stars,2 reviews,"
+            2-4 hours a week, 5 weeks long
+          ",edx,cs
+/course/edx-c-programming-language-foundations-11535,C Programming: Language Foundations,/university/dartmouth,Five out of five stars,2 reviews,"
+            2-4 hours a week, 5 weeks long
+          ",edx,cs
+/course/edx-linux-basics-the-command-line-interface-11537,Linux Basics: The Command Line Interface,/university/dartmouth,Five out of five stars,2 reviews,"
+            3-5 hours a week, 5 weeks long
+          ",edx,cs
+/course/edx-c-programming-using-linux-tools-and-libraries-11538,C Programming: Using Linux Tools and Libraries,/university/dartmouth,Five out of five stars,2 reviews,"
+            4-5 hours a week, 5 weeks long
+          ",edx,cs
+/course/edx-language-proof-and-logic-2340,"Language, Proof and Logic",/university/stanford,Five out of five stars,2 reviews,"
+            5-10 hours a week, 15 weeks long
+          ",edx,cs
+/course/edx-introduzione-all-informatica-11403,Introduzione all'informatica,/university/university-of-naples,Five out of five stars,2 reviews,"
+            4-6 hours a week, 6 weeks long
+          ",edx,cs
+/course/edx-algorithms-5752,Algorithms,/university/iitb,Five out of five stars,2 reviews,"
+            6-8 hours a week, 6 weeks long
+          ",edx,cs
+/course/fundamentos-del-internet-de-las-cosas-iot-segurid-34372,Fundamentos del Internet de las cosas (IoT): Seguridad I,/university/galileo,Five out of five stars,2 reviews,"
+            3-4 hours a week, 5 weeks long
+          ",edx,cs
+/course/harvardx-computer-science-for-game-development-18456,Computer Science for Game Development,/university/harvard,Five out of five stars,2 reviews,"
+            6-13 hours a week, 24 weeks long
+          ",edx,cs
+/course/edx-human-computer-interaction-iv-evaluation-agile-methods-beyond-14447,"Human-Computer Interaction IV: Evaluation, Agile Methods & Beyond",/university/gatech,Five out of five stars,2 reviews,"
+            5-6 hours a week, 6 weeks long
+          ",edx,cs
+/course/edx-so-you-want-to-become-a-biomedical-engineer-6500,So You Want to Become a Biomedical Engineer,/institution/ieee,Five out of five stars,2 reviews,"
+            4 weeks long
+          ",edx,cs
+/course/edx-logic-and-computational-thinking-8725,Logic and Computational Thinking,/institution/microsoft,Five out of five stars,2 reviews,"
+            2-3 hours a week, 4 weeks long
+          ",edx,cs
+/course/data-structures-algorithms-iii-avl-and-2-4-trees--23283,"Data Structures & Algorithms III: AVL and 2-4 Trees, Divide and Conquer Algorithms",/university/gatech,Four and a half out of five stars,3 reviews,"
+            9-10 hours a week, 5 weeks long
+          ",edx,cs
+/course/edx-paradigms-of-computer-programming-abstraction-and-concurrency-2630,Paradigms of Computer Programming – Abstraction and Concurrency,/university/uclouvain,Four and a half out of five stars,5 reviews,"
+            4-6 hours a week, 6 weeks long
+          ",edx,cs
+/course/edx-innovation-and-it-management-3594,Innovation and IT Management,/university/iimb,Four and a half out of five stars,5 reviews,"
+            2-4 hours a week, 4 weeks long
+          ",edx,cs
+/course/edx-windows-server-2016-securing-identities-and-information-9841,Windows Server 2016: Securing Identities and Information,/institution/microsoft,Five out of five stars,1 review,"
+            2-4 hours a week, 6 weeks long
+          ",edx,cs
+/course/edx-quantum-machine-learning-12860,Quantum Machine Learning,/university/utoronto,Five out of five stars,1 review,"
+            6-8 hours a week, 9 weeks long
+          ",edx,cs
+/course/edx-health-informatics-a-current-and-historical-perspective-13541,Health Informatics: A Current and Historical Perspective,/university/gatech,Five out of five stars,1 review,"
+            10-11 hours a week, 5 weeks long
+          ",edx,cs
+/course/edx-cs50-s-ap-computer-science-principles-7017,CS50's AP® Computer Science Principles,/university/harvard,Five out of five stars,1 review,"
+            5-6 hours a week, 36 weeks long
+          ",edx,cs
+/course/edx-it-support-troubleshooting-windows-9615,IT Support: Troubleshooting Windows,/institution/microsoft,Five out of five stars,1 review,"
+            2-3 hours a week, 4 weeks long
+          ",edx,cs
+/course/edx-algorithms-and-data-structures-in-c-9483,Algorithms and Data Structures in C#,/institution/microsoft,Five out of five stars,1 review,"
+            3-5 hours a week, 3 weeks long
+          ",edx,cs
+/course/edx-windows-support-essentials-maintenance-9834,Windows Support Essentials: Maintenance,/institution/microsoft,Five out of five stars,1 review,"
+            2-4 hours a week, 4 weeks long
+          ",edx,cs
+/course/edx-introduction-to-cloud-foundry-and-cloud-native-software-architecture-8387,Introduction to Cloud Foundry and Cloud Native Software Architecture,/institution/linuxfoundation,Five out of five stars,1 review,"
+            3-4 hours a week, 14 weeks long
+          ",edx,cs
+/course/edx-introduction-to-machine-learning-19081,Introduction to Machine Learning,/university/itmo,Five out of five stars,1 review,"
+            2-4 hours a week, 5 weeks long
+          ",edx,cs
+/course/edx-compilers-2716,Compilers,/university/stanford,Five out of five stars,1 review,"
+            5-10 hours a week, 10 weeks long
+          ",edx,cs
+/course/edx-machine-learning-with-python-a-practical-introduction-12122,Machine Learning with Python: A Practical Introduction,/institution/ibm,Five out of five stars,1 review,"
+            4-6 hours a week, 5 weeks long
+          ",edx,cs
+/course/edx-sparse-representations-in-signal-and-image-processing-fundamentals-9133,Sparse Representations in Signal and Image Processing: Fundamentals,/university/technion,Five out of five stars,1 review,"
+            5-6 hours a week, 5 weeks long
+          ",edx,cs
+/course/edx-deep-learning-through-transformative-pedagogy-7388,Deep Learning through Transformative Pedagogy,/institution/microsoft,Five out of five stars,1 review,"
+            2-3 hours a week, 4 weeks long
+          ",edx,cs
+/course/edx-data-structures-and-algorithm-design-part-ii-5720,Data Structures and Algorithm Design Part II | 数据结构与算法设计(下),/university/tsinghua,Five out of five stars,1 review,"
+            3-7 hours a week, 8 weeks long
+          ",edx,cs
+/course/edx-aplicaciones-de-la-teoria-de-grafos-a-la-vida-real-ii-4488,Aplicaciones de la Teoría de Grafos a la vida real II,/university/upv,Five out of five stars,1 review,"
+            3-4 hours a week, 4 weeks long
+          ",edx,cs
+/course/edx-advanced-algorithmics-and-graph-theory-with-python-12017,Advanced Algorithmics and Graph Theory with Python,/university/fr-mines-telecom,Five out of five stars,1 review,"
+            2-4 hours a week, 6 weeks long
+          ",edx,cs
+/course/edx-ai-for-everyone-master-the-basics-17898,AI for Everyone: Master the Basics,/institution/ibm,Five out of five stars,1 review,"
+            1-2 hours a week, 4 weeks long
+          ",edx,cs
+/course/harvardx-computer-science-for-artifical-intellige-18468,Computer Science for Artificial Intelligence,/university/harvard,Five out of five stars,1 review,"
+            8-24 hours a week, 19 weeks long
+          ",edx,cs
+/course/edx-cybersecurity-risk-management-7845,Cybersecurity Risk Management,/university/rit,Five out of five stars,1 review,"
+            10-12 hours a week, 8 weeks long
+          ",edx,cs
+/course/edx-computer-forensics-7857,Computer Forensics,/university/rit,Five out of five stars,1 review,"
+            10-12 hours a week, 8 weeks long
+          ",edx,cs
+/course/mathematical-optimization-for-engineers-48151,Mathematical Optimization for Engineers,/university/aachen,Five out of five stars,1 review,"
+            6-8 hours a week, 8 weeks long
+          ",edx,cs
+/course/data-structures-algorithms-iv-pattern-matching-dj-23282,"Data Structures & Algorithms IV: Pattern Matching, Dijkstra’s, MST, and Dynamic Programming Algorithms",/university/gatech,Five out of five stars,1 review,"
+            9-10 hours a week, 5 weeks long
+          ",edx,cs
+/course/edx-human-computer-interaction-iii-ethics-needfinding-prototyping-14446,"Human-Computer Interaction III: Ethics, Needfinding & Prototyping",/university/gatech,Five out of five stars,1 review,"
+            5-6 hours a week, 6 weeks long
+          ",edx,cs
+/course/edx-microsoft-enterprise-mobility-suite-4100,Microsoft Enterprise Mobility Suite,/institution/microsoft,Five out of five stars,1 review,"
+            2-4 hours a week, 6 weeks long
+          ",edx,cs
+/course/edx-introduction-to-windows-powershell-7059,Introduction to Windows PowerShell,/institution/microsoft,Five out of five stars,1 review,"
+            6 weeks long
+          ",edx,cs
+/course/edx-reliable-distributed-algorithms-part-1-6604,Reliable Distributed Algorithms - Part 1,/university/kth,Five out of five stars,1 review,"
+            5 weeks long
+          ",edx,cs
+/course/edx-deep-learning-explained-8746,Deep Learning Explained,/institution/microsoft,Five out of five stars,1 review,"
+            4-8 hours a week, 6 weeks long
+          ",edx,cs
+/course/edx-the-beauty-and-joy-of-computing-ap-cs-principles-part-1-2525,The Beauty and Joy of Computing - AP® CS Principles Part 1,/university/berkeley,Four and a half out of five stars,2 reviews,"
+            14 weeks long
+          ",edx,cs
+/course/edx-autonomous-mobile-robots-1564,Autonomous Mobile Robots,/university/ethzurich,Four and a half out of five stars,2 reviews,"
+            4-8 hours a week, 15 weeks long
+          ",edx,cs
+/course/edx-introduction-to-the-internet-of-things-14520,Introduction to the Internet of Things,/university/upv,Four and a half out of five stars,2 reviews,"
+            5-6 hours a week, 6 weeks long
+          ",edx,cs
+/course/edx-devops-for-developers-how-to-get-started-6333,DevOps for Developers: How to Get Started,/institution/microsoft,Four and a half out of five stars,3 reviews,"
+            2-3 hours a week, 4 weeks long
+          ",edx,cs
+/course/edx-agile-software-development-6878,Agile Software Development,/university/ethzurich,Four and a half out of five stars,3 reviews,"
+            2-3 hours a week, 6 weeks long
+          ",edx,cs
+/course/edx-introduction-to-linux-1857,Introduction to Linux,/institution/linuxfoundation,Four out of five stars,37 reviews,"
+            5-7 hours a week, 14 weeks long
+          ",edx,cs
+/course/edx-artificial-intelligence-ai-7230,Artificial Intelligence (AI),/university/columbia,Four out of five stars,12 reviews,"
+            8-10 hours a week, 12 weeks long
+          ",edx,cs
+/course/edx-machine-learning-7231,Machine Learning,/university/columbia,Four out of five stars,12 reviews,"
+            8-10 hours a week, 12 weeks long
+          ",edx,cs
+/course/edx-computer-science-101-2175,Computer Science 101,/university/stanford,Four out of five stars,18 reviews,"
+            4-6 hours a week, 6 weeks long
+          ",edx,cs
+/course/edx-automata-theory-376,Automata Theory,/university/stanford,Four out of five stars,20 reviews,"
+            5-10 hours a week, 7 weeks long
+          ",edx,cs
+/course/edx-paradigms-of-computer-programming-1487,Paradigms of Computer Programming,/university/uclouvain,Four out of five stars,1 review,"
+            3-6 hours a week, 11 weeks long
+          ",edx,cs
+/course/edx-responsabilidad-social-corporativa-y-su-impacto-sobre-la-gestion-de-la-tecnologia-de-la-informacion-3213,Responsabilidad Social Corporativa y su impacto sobre la Gestión de la Tecnología de la Información,/institution/oeconsortium,Four out of five stars,2 reviews,"
+            4 weeks long
+          ",edx,cs
+/course/edx-computing-art-magic-science-2195,"Computing: Art, Magic, Science",/university/ethzurich,Four out of five stars,1 review,"
+            5-10 hours a week, 4 weeks long
+          ",edx,cs
+/course/edx-computation-structures-2-computer-architecture-4810,Computation Structures 2: Computer Architecture,/university/mit,Four out of five stars,1 review,"
+            10 weeks long
+          ",edx,cs
+/course/edx-introduccion-a-la-programacion-en-c-funciones-y-punteros-12158,Introducción a la programación en C: Funciones y punteros,/university/uam,Four out of five stars,4 reviews,"
+            3-5 hours a week, 5 weeks long
+          ",edx,cs
+/course/edx-algorithm-design-and-analysis-8520,Algorithm Design and Analysis,/university/penn,Four out of five stars,1 review,"
+            6-8 hours a week, 4 weeks long
+          ",edx,cs
+/course/edx-introduction-to-cloud-infrastructure-technologies-6000,Introduction to Cloud Infrastructure Technologies,/institution/linuxfoundation,Four out of five stars,1 review,"
+            3-4 hours a week, 14 weeks long
+          ",edx,cs
+/course/edx-introduction-to-jenkins-20140,Introduction to Jenkins,/institution/linuxfoundation,Four out of five stars,1 review,"
+            2-3 hours a week, 12 weeks long
+          ",edx,cs
+/course/arquitectura-de-la-informacion-y-datos-digitales-58328,Arquitectura de la información y datos digitales,/university/anahuac,Four out of five stars,1 review,"
+            4-5 hours a week, 4 weeks long
+          ",edx,cs
+/course/edx-introduction-to-hyperledger-blockchain-technologies-9484,Introduction to Hyperledger Blockchain Technologies,/institution/linuxfoundation,Four out of five stars,1 review,"
+            2-4 hours a week, 10 weeks long
+          ",edx,cs
+/course/ibm-applied-ai-18347,Applied AI,/institution/ibm,Four out of five stars,1 review,"
+            2-5 hours a week, 21 weeks long
+          ",edx,cs
+/course/edx-medicine-in-the-digital-age-2683,Medicine in the Digital Age,/university/rice,Four out of five stars,1 review,"
+            2-4 hours a week, 4 weeks long
+          ",edx,cs
+/course/edx-distributed-machine-learning-with-apache-spark-5851,Distributed Machine Learning with Apache Spark,/university/berkeley,Four out of five stars,5 reviews,"
+            5-10 hours a week, 4 weeks long
+          ",edx,cs
+/course/edx-computer-vision-and-image-analysis-11378,Computer Vision and Image Analysis,/institution/microsoft,Four out of five stars,1 review,"
+            3-4 hours a week, 4 weeks long
+          ",edx,cs
+/course/edx-machine-learning-fundamentals-8216,Machine Learning Fundamentals,/university/ucsd,Four out of five stars,8 reviews,"
+            8-10 hours a week, 10 weeks long
+          ",edx,cs
+/course/edx-information-and-communication-technology-ict-accessibility-5898,Information and Communication Technology (ICT) Accessibility,/university/gatech,Four out of five stars,7 reviews,"
+            2-4 hours a week, 6 weeks long
+          ",edx,cs
+/course/edx-computer-graphics-548,Computer Graphics,/university/ucsd,Four out of five stars,6 reviews,"
+            6-12 hours a week, 6 weeks long
+          ",edx,cs
+/course/edx-data-science-and-machine-learning-essentials-3954,Data Science and Machine Learning Essentials,/institution/microsoft,Four out of five stars,6 reviews,"
+            3-4 hours a week, 5 weeks long
+          ",edx,cs
+/course/edx-programming-for-everyone-an-introduction-to-visual-programming-languages-9381,Programming for Everyone – An Introduction to Visual Programming Languages,/university/weizmann,Four out of five stars,5 reviews,"
+            2-3 hours a week, 8 weeks long
+          ",edx,cs
+/course/edx-algorithmic-design-and-techniques-10241,Algorithmic Design and Techniques,/university/ucsd,Three and a half out of five stars,3 reviews,"
+            8-10 hours a week, 6 weeks long
+          ",edx,cs
+/course/edx-developing-international-software-part-1-3996,"Developing International Software, Part 1",/institution/microsoft,Three and a half out of five stars,2 reviews,"
+            3 hours a week, 11 weeks long
+          ",edx,cs
+/course/edx-principles-of-machine-learning-6511,Principles of Machine Learning,/institution/microsoft,Three and a half out of five stars,2 reviews,"
+            3-4 hours a week, 6 weeks long
+          ",edx,cs
+/course/edx-software-engineering-essentials-8527,Software Engineering Essentials,/university/tum,Three and a half out of five stars,2 reviews,"
+            5-7 hours a week, 10 weeks long
+          ",edx,cs
+/course/edx-building-cloud-apps-with-microsoft-azure-part-1-self-paced-3348,Building Cloud Apps with Microsoft Azure - Part 1 (self-paced),/institution/microsoft,Three out of five stars,1 review,"
+            4 weeks long
+          ",edx,cs
+/course/edx-developing-windows-10-universal-apps-part-3-4559,Developing Windows 10 Universal Apps – Part 3,/institution/microsoft,Three out of five stars,1 review,"
+            10-12 hours a week, 4 weeks long
+          ",edx,cs
+/course/edx-nature-in-code-biology-in-javascript-6881,"Nature, in Code: Biology in JavaScript",/university/epfl,Three out of five stars,1 review,"
+            3-4 hours a week, 7 weeks long
+          ",edx,cs
+/course/edx-software-construction-data-abstraction-8200,Software Construction: Data Abstraction,/university/ubc,Three out of five stars,1 review,"
+            8-10 hours a week, 6 weeks long
+          ",edx,cs
+/course/edx-dev202-2x-building-cloud-apps-with-microsoft-azure-part-2-3536,DEV202.2x: Building Cloud Apps with Microsoft Azure – Part 2,/institution/microsoft,Three out of five stars,1 review,"
+            4 hours a week, 4 weeks long
+          ",edx,cs
+/course/edx-introduction-to-data-storage-and-management-technologies-5998,Introduction to Data Storage and Management Technologies,/institution/ieee,Three out of five stars,1 review,"
+            1-2 hours a week, 4 weeks long
+          ",edx,cs
+/course/edx-quantum-information-science-ii-efficient-quantum-computing-fault-tolerance-and-complexity-11410,Quantum Information Science II: Efficient Quantum Computing - fault tolerance and complexity,/university/mit,Three out of five stars,1 review,"
+            11-13 hours a week, 4 weeks long
+          ",edx,cs
+/course/edx-mycs-computer-science-for-beginners-2957,MyCS: Computer Science for Beginners,/university/hmc,Three out of five stars,1 review,"
+            3-4 hours a week, 6 weeks long
+          ",edx,cs
+/course/edx-essential-math-for-machine-learning-r-edition-11605,Essential Math for Machine Learning: R Edition,/institution/microsoft,Three out of five stars,1 review,"
+            6-8 hours a week, 6 weeks long
+          ",edx,cs
+/course/edx-basics-of-computing-and-programming-17997,Basics of Computing and Programming,/university/nyu,Three and a half out of five stars,5 reviews,"
+            6-8 hours a week, 9 weeks long
+          ",edx,cs
+/course/edx-c-programming-modular-programming-and-memory-management-11666,C Programming: Modular Programming and Memory Management,/university/dartmouth,Three and a half out of five stars,3 reviews,"
+            2-4 hours a week, 5 weeks long
+          ",edx,cs
+/course/edx-software-engineering-introduction-8205,Software Engineering: Introduction,/university/ubc,Three out of five stars,2 reviews,"
+            8-10 hours a week, 6 weeks long
+          ",edx,cs
+/course/edx-software-development-fundamentals-8516,Software Development Fundamentals,/university/penn,Three out of five stars,2 reviews,"
+            6-8 hours a week, 4 weeks long
+          ",edx,cs
+/course/edx-introduction-to-the-internet-of-things-iot-9750,Introduction to the Internet of Things (IoT),/university/curtin,Three out of five stars,2 reviews,"
+            2-3 hours a week, 6 weeks long
+          ",edx,cs
+/course/edx-reinforcement-learning-explained-9926,Reinforcement Learning Explained,/institution/microsoft,Three out of five stars,2 reviews,"
+            4-8 hours a week, 6 weeks long
+          ",edx,cs
+/course/edx-software-construction-object-oriented-design-8201,Software Construction: Object-Oriented Design,/university/ubc,Two out of five stars,1 review,"
+            8-10 hours a week, 6 weeks long
+          ",edx,cs
+/course/edx-computational-thinking-for-modeling-and-simulation-12764,Computational Thinking for Modeling and Simulation,/university/mit,Two out of five stars,1 review,"
+            3-5 hours a week, 9 weeks long
+          ",edx,cs
+/course/edx-devops-practices-and-principles-9475,DevOps Practices and Principles,/institution/microsoft,Two out of five stars,1 review,"
+            2-4 hours a week, 4 weeks long
+          ",edx,cs
+/course/edx-algorithms-and-data-structures-8937,Algorithms and Data Structures,/institution/microsoft,Two out of five stars,1 review,"
+            3-4 hours a week, 5 weeks long
+          ",edx,cs
+/course/edx-formal-software-verification-8180,Formal Software Verification,/university/usmd,Two out of five stars,1 review,"
+            8-10 hours a week, 8 weeks long
+          ",edx,cs
+/course/edx-the-quantum-internet-and-quantum-computers-how-will-they-change-the-world-9760,The Quantum Internet and Quantum Computers: How Will They Change the World?,/university/delft,Two out of five stars,1 review,"
+            2-3 hours a week, 6 weeks long
+          ",edx,cs
+/course/edinburghx-predictive-analytics-for-business-appl-18295,Predictive Analytics using Python,/university/edinburgh,Two out of five stars,1 review,"
+            8-10 hours a week, 30 weeks long
+          ",edx,cs
+/course/edx-principles-of-machine-learning-python-edition-11609,Principles of Machine Learning: Python Edition,/institution/microsoft,Two out of five stars,1 review,"
+            6-8 hours a week, 6 weeks long
+          ",edx,cs
+/course/edx-how-to-code-simple-data-3465,How to Code: Simple Data,/university/ubc,Three and a half out of five stars,15 reviews,"
+            2-3 hours a week, 7 weeks long
+          ",edx,cs
+/course/edx-introduction-to-real-time-systems-4990,Introduction to Real-Time Systems,/institution/ieee,Two and a half out of five stars,2 reviews,"
+            3 weeks long
+          ",edx,cs
+/course/edx-introduction-to-device-programming-9927,Introduction to Device Programming,/institution/microsoft,One out of five stars,1 review,"
+            2-4 hours a week, 4 weeks long
+          ",edx,cs
+/course/edx-it-support-documentation-9839,IT Support: Documentation,/institution/microsoft,One out of five stars,1 review,"
+            3-4 hours a week, 5 weeks long
+          ",edx,cs
+/course/edx-using-gpus-to-scale-and-speed-up-deep-learning-11735,Using GPUs to Scale and Speed-up Deep Learning,/institution/ibm,One out of five stars,1 review,"
+            2-4 hours a week, 5 weeks long
+          ",edx,cs
+/course/nyux-programming-data-structures-21976,Programming & Data Structures,/university/nyu,One out of five stars,1 review,"
+            6-8 hours a week, 36 weeks long
+          ",edx,cs
+/course/edx-cyber-security-protecting-yourself-and-your-data-8054,Cyber Security: Protecting Yourself and Your Data,/institution/ieee,One out of five stars,1 review,"
+            2-3 hours a week, 10 weeks long
+          ",edx,cs
+/course/edx-principles-of-machine-learning-r-edition-11602,Principles of Machine Learning: R Edition,/institution/microsoft,One out of five stars,1 review,"
+            6-8 hours a week, 6 weeks long
+          ",edx,cs
+/course/edx-software-testing-management-8171,Software Testing Management,/university/usmd,Two out of five stars,2 reviews,"
+            8-10 hours a week, 8 weeks long
+          ",edx,cs
+/course/internet-de-las-cosas-fundamentos-de-python-43713,Internet de las Cosas: Fundamentos de Python,/university/galileo,One and a half out of five stars,2 reviews,"
+            3-5 hours a week, 5 weeks long
+          ",edx,cs
+/course/edx-quantum-information-science-i-part-1-10087,"Quantum Information Science I, Part 1",/university/mit,One and a half out of five stars,2 reviews,"
+            11-13 hours a week, 5 weeks long
+          ",edx,cs
+/course/edx-machine-learning-for-data-science-and-analytics-4912,Machine Learning for Data Science and Analytics,/university/columbia,Three out of five stars,15 reviews,"
+            7-10 hours a week, 5 weeks long
+          ",edx,cs
+/course/edx-machine-learning-with-python-from-linear-models-to-deep-learning-11483,Machine Learning with Python: from Linear Models to Deep Learning,/university/mit,Three out of five stars,25 reviews,"
+            10-14 hours a week, 15 weeks long
+          ",edx,cs
+/course/edx-natural-language-processing-nlp-9880,Natural Language Processing (NLP),/institution/microsoft,One out of five stars,2 reviews,"
+            4-8 hours a week, 6 weeks long
+          ",edx,cs
+/course/edx-speech-recognition-systems-10041,Speech Recognition Systems,/institution/microsoft,One and a half out of five stars,3 reviews,"
+            5-6 hours a week, 4 weeks long
+          ",edx,cs
+/course/edx-software-development-capstone-project-8198,Software Development Capstone Project,/university/ubc,One out of five stars,4 reviews,"
+            8-10 hours a week, 6 weeks long
+          ",edx,cs
+/course/edx-enabling-technologies-for-data-science-and-analytics-the-internet-of-things-4911,Enabling Technologies for Data Science and Analytics: The Internet of Things,/university/columbia,One and a half out of five stars,6 reviews,"
+            7-10 hours a week, 5 weeks long
+          ",edx,cs
+/course/introduction-to-digital-asset-management-dam-116671,Introduction to Digital Asset Management (DAM),/university/wisconsin,Zero out of five stars,,,edx,cs
+/course/metadata-training-connecting-users-to-assets-116669,Metadata & Training: Connecting Users to Assets,/university/wisconsin,Zero out of five stars,,,edx,cs
+/course/wisconsin-digital-asset-management-116884,Digital Asset Management,/university/wisconsin,Zero out of five stars,,,edx,cs
+/course/edx-data-structures-and-algorithms-part-1-2156,数据结构与算法第一部分 | Data Structures and Algorithms Part 1,/university/pku,Zero out of five stars,,,edx,cs
+/course/edx-data-structures-and-algorithms-part-2-2693,数据结构与算法第二部分 | Data Structures and Algorithms Part 2,/university/pku,Zero out of five stars,,,edx,cs
+/course/edx-fundamental-algorithms-3244,算法基础 | Fundamental Algorithms,/university/pku,Zero out of five stars,,,edx,cs
+/course/edx-computing-art-magic-science-part-ii-4084,"Computing: Art, Magic, Science - Part II",/university/ethzurich,Zero out of five stars,,,edx,cs
+/course/edx-the-beauty-and-joy-of-computing-cs-principles-part-1-2528,"The Beauty and Joy of Computing (CS Principles), Part 1",/university/berkeley,Zero out of five stars,,,edx,cs
+/course/edx-introduction-to-theoretical-computer-science-2436,理论计算机科学基础 | Introduction to Theoretical Computer Science,/university/pku,Zero out of five stars,,,edx,cs
+/course/edx-administracion-de-proyectos-de-tecnologias-de-la-informacion-4057,Administración de Proyectos de Tecnologías de la Información,/institution/mexicox,Zero out of five stars,,,edx,cs
+/course/edx-introduction-to-windows-server-4387,Introduction to Windows Server,/institution/microsoft,Zero out of five stars,,,edx,cs
+/course/edx-implementing-microsoft-windows-server-disks-and-volumes-4943,Implementing Microsoft Windows Server Disks and Volumes,/institution/microsoft,Zero out of five stars,,,edx,cs
+/course/edx-developing-international-software-part-2-5176,Developing International Software: Part 2,/institution/microsoft,Zero out of five stars,,,edx,cs
+/course/edx-optimizing-microsoft-windows-server-storage-4944,Optimizing Microsoft Windows Server Storage,/institution/microsoft,Zero out of five stars,,,edx,cs
+/course/edx-the-beauty-and-joy-of-computing-cs-principles-part-3-2548,"The Beauty and Joy of Computing (CS Principles), Part 3",/university/berkeley,Zero out of five stars,,,edx,cs
+/course/edx-implementing-dhcp-in-microsoft-windows-server-5341,Implementing DHCP in Microsoft Windows Server,/institution/microsoft,Zero out of five stars,,,edx,cs
+/course/edx-implementing-dns-in-microsoft-windows-server-5310,Implementing DNS in Microsoft Windows Server,/institution/microsoft,Zero out of five stars,,,edx,cs
+/course/edx-compliance-in-office-365-data-governance-5754,Compliance in Office 365: Data Governance,/institution/microsoft,Zero out of five stars,,,edx,cs
+/course/edx-the-beauty-and-joy-of-computing-cs-principles-part-4-2543,"The Beauty and Joy of Computing (CS Principles), Part 4",/university/berkeley,Zero out of five stars,,,edx,cs
+/course/edx-managing-microsoft-windows-server-active-directory-domain-services-5881,Managing Microsoft Windows Server Active Directory Domain Services,/institution/microsoft,Zero out of five stars,,,edx,cs
+/course/edx-advanced-design-and-analysis-of-algorithms-6364,算法设计与分析(高级) | Advanced Design and Analysis of Algorithms,/university/pku,Zero out of five stars,,,edx,cs
+/course/edx-microsoft-windows-server-2012-fundamentals-dns-6451,Microsoft Windows Server 2012 Fundamentals: DNS,/institution/microsoft,Zero out of five stars,,,edx,cs
+/course/edx-microsoft-windows-server-2012-fundamentals-dhcp-6452,Microsoft Windows Server 2012 Fundamentals: DHCP,/institution/microsoft,Zero out of five stars,,,edx,cs
+/course/edx-microsoft-windows-server-2012-fundamentals-storage-6453,Microsoft Windows Server 2012 Fundamentals: Storage,/institution/microsoft,Zero out of five stars,,,edx,cs
+/course/edx-microsoft-windows-server-2012-fundamentals-infrastructure-6454,Microsoft Windows Server 2012 Fundamentals: Infrastructure,/institution/microsoft,Zero out of five stars,,,edx,cs
+/course/edx-developing-windows-10-universal-apps-part-2-4560,Developing Windows 10 Universal Apps – Part 2,/institution/microsoft,Zero out of five stars,,,edx,cs
+/course/edx-developing-windows-10-universal-apps-part-1-4505,Developing Windows 10 Universal Apps - Part 1,/institution/microsoft,Zero out of five stars,,,edx,cs
+/course/edx-microsoft-windows-server-2012-fundamentals-hyper-v-6450,Microsoft Windows Server 2012 Fundamentals: Hyper-V,/institution/microsoft,Zero out of five stars,,,edx,cs
+/course/edx-developing-international-software-part-3-6332,"Developing International Software, Part 3",/institution/microsoft,Zero out of five stars,,,edx,cs
+/course/edx-sharepoint-2013-basics-for-it-professionals-3940,SharePoint 2013 Basics for IT Professionals,/institution/microsoft,Zero out of five stars,,,edx,cs
+/course/edx-windows-10-app-development-advanced-6592,Windows 10 App Development Advanced,/institution/microsoft,Zero out of five stars,,,edx,cs
+/course/edx-accelerate-software-delivery-using-devops-6841,Accelerate Software Delivery using DevOps,/institution/microsoft,Zero out of five stars,,,edx,cs
+/course/edx-introduction-to-data-structures-7391,Introduction to Data Structures,/university/adelaide,Zero out of five stars,,,edx,cs
+/course/edx-advanced-software-construction-in-java-6475,Advanced Software Construction in Java,/university/mit,Zero out of five stars,,,edx,cs
+/course/edx-computation-structures-3-computer-organization-6245,Computation Structures 3: Computer Organization,/university/mit,Zero out of five stars,,,edx,cs
+/course/edx-robotics-vision-intelligence-and-machine-learning-8203,Robotics: Vision Intelligence and Machine Learning,/university/penn,Zero out of five stars,,,edx,cs
+/course/edx-fundamentals-of-containers-kubernetes-and-red-hat-openshift-9105,"Fundamentals of Containers, Kubernetes, and Red Hat OpenShift",/institution/redhat,Zero out of five stars,,,edx,cs
+/course/edx-fa17-machine-learning-8995,FA17:  Machine Learning,/university/gatech,Zero out of five stars,,,edx,cs
+/course/edx-developing-intelligent-apps-and-bots-6357,Developing Intelligent Apps and Bots,/institution/microsoft,Zero out of five stars,,,edx,cs
+/course/edx-reliable-distributed-algorithms-part-2-6603,Reliable Distributed Algorithms - Part 2,/university/kth,Zero out of five stars,,,edx,cs
+/course/edx-compliance-in-office-365-data-governance-8417,Compliance in Office 365: Data Governance,/institution/microsoft,Zero out of five stars,,,edx,cs
+/course/edx-applied-machine-learning-6406,Applied Machine Learning,/institution/microsoft,Zero out of five stars,,,edx,cs
+/course/edx-office-365-sharepoint-online-administrator-10112,Office 365: SharePoint Online Administrator,/institution/microsoft,Zero out of five stars,,,edx,cs
+/course/edx-the-beauty-and-joy-of-computing-ap-cs-principles-part-2-2532,The Beauty and Joy of Computing - AP® CS Principles Part 2,/university/berkeley,Zero out of five stars,,,edx,cs
+/course/edx-introduction-to-devops-transforming-and-improving-operations-7506,Introduction to DevOps: Transforming and Improving Operations,/institution/linuxfoundation,Zero out of five stars,,,edx,cs
+/course/edx-viabilite-et-gestion-de-la-dette-des-pays-a-faible-revenu-7375,Viabilité et gestion de la dette des pays à faible revenu,/institution/imf,Zero out of five stars,,,edx,cs
+/course/edx-developing-ai-speech-apps-with-microsoft-cognitive-services-11337,Developing AI Speech Apps with Microsoft Cognitive Services,/institution/microsoft,Zero out of five stars,,,edx,cs
+/course/edx-microsoft-bot-framework-and-conversation-as-a-platform-11325,Microsoft Bot Framework and Conversation as a Platform,/institution/microsoft,Zero out of five stars,,,edx,cs
+/course/edx-data-cleansing-with-data-quality-services-dqs-7589,Data Cleansing with Data Quality Services (DQS),/institution/microsoft,Zero out of five stars,,,edx,cs
+/course/edx-microsoft-sharepoint-2016-productivity-solutions-7155,Microsoft SharePoint 2016: Productivity Solutions,/institution/microsoft,Zero out of five stars,,,edx,cs
+/course/edx-microsoft-sharepoint-2016-workload-optimization-7156,Microsoft SharePoint 2016: Workload Optimization,/institution/microsoft,Zero out of five stars,,,edx,cs
+/course/edx-microsoft-sharepoint-2016-infrastructure-7158,Microsoft SharePoint 2016: Infrastructure,/institution/microsoft,Zero out of five stars,,,edx,cs
+/course/edx-transitioning-to-microsoft-exchange-server-2016-6321,Transitioning to Microsoft Exchange Server 2016,/institution/microsoft,Zero out of five stars,,,edx,cs
+/course/edx-microsoft-exchange-server-2016-4-transport-services-6324,Microsoft Exchange Server 2016 - 4: Transport Services,/institution/microsoft,Zero out of five stars,,,edx,cs
+/course/edx-microsoft-exchange-server-2016-3-mailbox-databases-6325,Microsoft Exchange Server 2016 - 3: Mailbox Databases,/institution/microsoft,Zero out of five stars,,,edx,cs
+/course/edx-microsoft-exchange-server-2016-2-client-access-services-6326,Microsoft Exchange Server 2016 - 2: Client Access Services,/institution/microsoft,Zero out of five stars,,,edx,cs
+/course/edx-microsoft-exchange-server-2016-1-infrastructure-6328,Microsoft Exchange Server 2016 - 1: Infrastructure,/institution/microsoft,Zero out of five stars,,,edx,cs
+/course/edx-sharepoint-enterprise-content-management-6329,SharePoint Enterprise Content Management,/institution/microsoft,Zero out of five stars,,,edx,cs
+/course/edx-windows-10-features-for-a-mobile-workforce-identity-management-and-data-access-5971,Windows 10 Features for a Mobile Workforce: Identity Management and Data Access,/institution/microsoft,Zero out of five stars,,,edx,cs
+/course/edx-planning-and-preparing-sharepoint-hybrid-8386,Planning and Preparing SharePoint Hybrid,/institution/microsoft,Zero out of five stars,,,edx,cs
+/course/edx-skype-for-business-infrastructure-advanced-configuration-8416,Skype for Business: Infrastructure Advanced Configuration,/institution/microsoft,Zero out of five stars,,,edx,cs
+/course/edx-configuring-sharepoint-hybrid-8419,Configuring SharePoint Hybrid,/institution/microsoft,Zero out of five stars,,,edx,cs
+/course/edx-skype-for-business-infrastructure-implementation-and-conferencing-8366,Skype for Business: Infrastructure Implementation and Conferencing,/institution/microsoft,Zero out of five stars,,,edx,cs
+/course/edx-skype-for-business-voice-advanced-workloads-8367,Skype for Business: Voice Advanced Workloads,/institution/microsoft,Zero out of five stars,,,edx,cs
+/course/edx-skype-for-business-voice-concepts-and-planning-8194,Skype for Business: Voice Concepts and Planning,/institution/microsoft,Zero out of five stars,,,edx,cs
+/course/edx-skype-for-business-infrastructure-planning-and-design-8195,Skype for Business: Infrastructure Planning and Design,/institution/microsoft,Zero out of five stars,,,edx,cs
+/course/edx-skype-for-business-voice-hybrid-and-routing-8279,Skype for Business: Voice Hybrid and Routing,/institution/microsoft,Zero out of five stars,,,edx,cs
+/course/edx-windows-10-features-for-a-mobile-workforce-windows-and-devices-in-the-enterprise-6547,Windows 10 Features for a Mobile Workforce: Windows and Devices in the Enterprise,/institution/microsoft,Zero out of five stars,,,edx,cs
+/course/edx-windows-10-features-for-a-mobile-workforce-configuring-additional-resources-7488,Windows 10 Features for a Mobile Workforce: Configuring Additional Resources,/institution/microsoft,Zero out of five stars,,,edx,cs
+/course/edx-windows-10-features-for-a-mobile-workforce-managing-and-maintaining-devices-in-the-enterprise-7489,Windows 10 Features for a Mobile Workforce: Managing and Maintaining Devices in the Enterprise,/institution/microsoft,Zero out of five stars,,,edx,cs
+/course/edx-microsoft-sharepoint-online-for-site-administrators-7451,Microsoft SharePoint Online for Site Administrators,/institution/microsoft,Zero out of five stars,,,edx,cs
+/course/edx-microsoft-sharepoint-2016-search-and-content-management-7076,Microsoft SharePoint 2016: Search and Content Management,/institution/microsoft,Zero out of five stars,,,edx,cs
+/course/edx-organizing-evangelism-and-achieving-user-adoption-8629,Organizing Evangelism and Achieving User Adoption,/institution/microsoft,Zero out of five stars,,,edx,cs
+/course/edx-skype-operations-framework-9329,Skype Operations Framework,/institution/microsoft,Zero out of five stars,,,edx,cs
+/course/edx-system-center-2016-building-a-datacenter-fabric-9259,System Center 2016: Building a Datacenter Fabric,/institution/microsoft,Zero out of five stars,,,edx,cs
+/course/edx-system-center-2016-building-clouds-9970,System Center 2016: Building Clouds,/institution/microsoft,Zero out of five stars,,,edx,cs
+/course/edx-planning-developing-governance-for-digital-transformation-10085,Planning & Developing Governance for Digital Transformation,/institution/microsoft,Zero out of five stars,,,edx,cs
+/course/edx-windows-server-2016-advanced-networking-9482,Windows Server 2016: Advanced Networking,/institution/microsoft,Zero out of five stars,,,edx,cs
+/course/edx-windows-server-2016-advanced-storage-8848,Windows Server 2016: Advanced Storage,/institution/microsoft,Zero out of five stars,,,edx,cs
+/course/edx-troubleshooting-microsoft-exchange-server-2016-8967,Troubleshooting Microsoft Exchange Server 2016,/institution/microsoft,Zero out of five stars,,,edx,cs
+/course/edx-troubleshooting-skype-for-business-8724,Troubleshooting Skype for Business,/institution/microsoft,Zero out of five stars,,,edx,cs
+/course/edx-windows-server-2016-basic-storage-8535,Windows Server 2016: Basic Storage,/institution/microsoft,Zero out of five stars,,,edx,cs
+/course/edx-windows-server-2016-basic-networking-8537,Windows Server 2016: Basic Networking,/institution/microsoft,Zero out of five stars,,,edx,cs
+/course/edx-windows-server-2016-virtualization-8540,Windows Server 2016: Virtualization,/institution/microsoft,Zero out of five stars,,,edx,cs
+/course/edx-windows-server-2016-advanced-virtualization-9086,Windows Server 2016: Advanced Virtualization,/university/ucsd,Zero out of five stars,,,edx,cs
+/course/edx-developing-ai-vision-apps-using-microsoft-cognitive-services-11360,Developing AI Vision Apps Using Microsoft Cognitive Services,/institution/microsoft,Zero out of five stars,,,edx,cs
+/course/edx-graph-algorithms-10247,Graph Algorithms,/university/ucsd,Zero out of five stars,,,edx,cs
+/course/edx-designing-data-platform-solutions-10313,Designing Data Platform Solutions,/university/gatech,Zero out of five stars,,,edx,cs
+/course/edx-np-complete-problems-10275,NP-Complete Problems,/university/ucsd,Zero out of five stars,,,edx,cs
+/course/edx-machine-learning-9695,Machine Learning,/institution/microsoft,Zero out of five stars,,,edx,cs
+/course/edx-string-processing-and-pattern-matching-algorithms-10248,String Processing and Pattern Matching Algorithms,/institution/microsoft,Zero out of five stars,,,edx,cs
+/course/edx-windows-powershell-basics-8428,Windows PowerShell Basics,/institution/microsoft,Zero out of five stars,,,edx,cs
+/course/edx-windows-server-2016-infrastructure-8478,Windows Server 2016: Infrastructure,/university/caltech,Zero out of five stars,,,edx,cs
+/course/edx-windows-server-2016-directory-services-8534,Windows Server 2016: Directory Services,/university/gatech,Zero out of five stars,,,edx,cs
+/course/edx-quantum-cryptography-6334,Quantum Cryptography,/institution/microsoft,Zero out of five stars,,,edx,cs
+/course/edx-accessible-gamification-9485,Accessible Gamification,/institution/microsoft,Zero out of five stars,,,edx,cs
+/course/edx-introduction-to-nosql-data-solutions-8125,Introduction to NoSQL Data Solutions,/university/ucsd,Zero out of five stars,,,edx,cs
+/course/edx-microsoft-professional-orientation-cloud-administration-9328,Microsoft Professional Orientation : Cloud Administration,/institution/microsoft,Zero out of five stars,,,edx,cs
+/course/edx-data-structures-fundamentals-10246,Data Structures Fundamentals,/university/gatech,Zero out of five stars,,,edx,cs
+/course/edx-microsoft-professional-capstone-cloud-administration-9355,Microsoft Professional Capstone : Cloud Administration,/university/gatech,Zero out of five stars,,,edx,cs
+/course/edx-health-informatics-data-and-interoperability-standards-13542,Health Informatics: Data and Interoperability Standards,/university/utexas,Zero out of five stars,,,edx,cs
+/course/edx-health-informatics-the-cutting-edge-13543,Health Informatics: The Cutting Edge,/university/mephi,Zero out of five stars,,,edx,cs
+/course/edx-machine-learning-15170,Machine Learning,/institution/linuxfoundation,Zero out of five stars,,,edx,cs
+/course/edx-enterprise-software-lifecycle-management-6304,Enterprise Software Lifecycle Management,/institution/microsoft,Zero out of five stars,,,edx,cs
+/course/edx-hyperledger-sawtooth-for-application-developers-16915,Hyperledger Sawtooth for Application Developers,/institution/microsoft,Zero out of five stars,,,edx,cs
+/course/edx-developing-international-software-7811,Developing International Software,/institution/microsoft,Zero out of five stars,,,edx,cs
+/course/edx-infrastructure-as-code-9476,Infrastructure as Code,/institution/microsoft,Zero out of five stars,,,edx,cs
+/course/edx-continuous-integration-and-continuous-deployment-9477,Continuous Integration and Continuous Deployment,/institution/microsoft,Zero out of five stars,,,edx,cs
+/course/edx-configuration-management-for-containerized-delivery-9478,Configuration Management for Containerized Delivery,/institution/microsoft,Zero out of five stars,,,edx,cs
+/course/edx-devops-testing-9479,DevOps Testing,/institution/microsoft,Zero out of five stars,,,edx,cs
+/course/edx-devops-for-databases-9480,DevOps for Databases,/institution/microsoft,Zero out of five stars,,,edx,cs
+/course/edx-it-support-networking-essentials-9616,IT Support: Networking Essentials,/institution/microsoft,Zero out of five stars,,,edx,cs
+/course/edx-it-support-cloud-fundamentals-9617,IT Support: Cloud Fundamentals,/institution/microsoft,Zero out of five stars,,,edx,cs
+/course/edx-devops-for-mobile-apps-9486,DevOps for Mobile Apps,/institution/microsoft,Zero out of five stars,,,edx,cs
+/course/edx-architecting-distributed-cloud-applications-8771,Architecting Distributed Cloud Applications,/institution/microsoft,Zero out of five stars,,,edx,cs
+/course/edx-it-support-hardware-essentials-9830,IT Support: Hardware Essentials,/institution/microsoft,Zero out of five stars,,,edx,cs
+/course/edx-windows-support-essentials-installation-9833,Windows Support Essentials: Installation,/institution/microsoft,Zero out of five stars,,,edx,cs
+/course/edx-windows-support-essentials-configuration-9835,Windows Support Essentials: Configuration,/institution/microsoft,Zero out of five stars,,,edx,cs
+/course/edx-it-support-fundamentals-9836,IT Support: Fundamentals,/institution/microsoft,Zero out of five stars,,,edx,cs
+/course/edx-it-support-communication-9837,IT Support: Communication,/institution/ibm,Zero out of five stars,,,edx,cs
+/course/edx-it-support-troubleshooting-9838,IT Support: Troubleshooting,/institution/microsoft,Zero out of five stars,,,edx,cs
+/course/edx-smarter-chatbots-with-node-red-and-watson-ai-11730,Smarter Chatbots with Node-RED and Watson AI,/institution/microsoft,Zero out of five stars,,,edx,cs
+/course/edx-from-graph-to-knowledge-graph-algorithms-and-applications-11804,From Graph to Knowledge Graph – Algorithms and Applications,/institution/microsoft,Zero out of five stars,,,edx,cs
+/course/edx-getting-started-with-the-internet-of-things-iot-12658,Getting Started with the Internet of Things (IoT),/institution/microsoft,Zero out of five stars,,,edx,cs
+/course/edx-iot-device-configuration-and-communication-c-edition-12659,IoT Device Configuration and Communication: C Edition,/institution/microsoft,Zero out of five stars,,,edx,cs
+/course/edx-iot-architecture-design-and-business-planning-12660,IoT Architecture Design and Business Planning,/institution/microsoft,Zero out of five stars,,,edx,cs
+/course/edx-predictive-analytics-for-iot-solutions-12662,Predictive Analytics for IoT Solutions,/institution/microsoft,Zero out of five stars,,,edx,cs
+/course/edx-introduction-to-device-programming-for-iot-c-edition-12663,Introduction to Device Programming for IoT: C Edition,/university/purdue,Zero out of five stars,,,edx,cs
+/course/edx-iot-data-analytics-and-storage-12664,IoT Data Analytics and Storage,/institution/microsoft,Zero out of five stars,,,edx,cs
+/course/edx-ap-computer-science-a-java-programming-loops-and-data-structures-7212,AP Computer Science A: Java Programming Loops and Data Structures,/institution/microsoft,Zero out of five stars,,,edx,cs
+/course/edx-microsoft-professional-capstone-devops-9488,Microsoft Professional Capstone : DevOps,/institution/microsoft,Zero out of five stars,,,edx,cs
+/course/edx-microsoft-professional-capstone-it-support-9832,Microsoft Professional Capstone: IT Support,/university/itmo,Zero out of five stars,,,edx,cs
+/course/edx-microsoft-professional-capstone-artificial-intelligence-11383,Microsoft Professional Capstone : Artificial Intelligence,/university/itmo,Zero out of five stars,,,edx,cs
+/course/edx-a-subjective-introduction-to-the-iot-14393,A Subjective Introduction to the IoT,/university/itmo,Zero out of five stars,,,edx,cs
+/course/edx-iot-networking-and-fog-layer-devices-14394,IoT Networking and Fog Layer Devices,/university/purdue,Zero out of five stars,,,edx,cs
+/course/edx-data-management-data-security-and-robot-operating-system-as-a-common-tool-for-iot-14395,"Data Management, Data Security and Robot Operating System as a Common Tool for IoT",/university/mephi,Zero out of five stars,,,edx,cs
+/course/edx-ap-computer-science-a-java-programming-classes-and-objects-7211,AP Computer Science A: Java Programming Classes and Objects,/university/kth,Zero out of five stars,,,edx,cs
+/course/edx-kriptograficheskie-metody-zashchity-informacii-17269,Криптографические методы защиты информации,/university/stanford,Zero out of five stars,,,edx,cs
+/course/edx-cyber-physical-networks-12197,Cyber-Physical Networks,/university/purdue,Zero out of five stars,,,edx,cs
+/course/edx-algorithms-design-and-analysis-part-1-8984,"Algorithms: Design and Analysis, Part 1",/university/dartmouth,Zero out of five stars,,,edx,cs
+/course/edx-ap-computer-science-a-java-programming-polymorphism-and-advanced-data-structures-7219,AP Computer Science A: Java Programming Polymorphism and Advanced Data Structures,/university/mephi,Zero out of five stars,,,edx,cs
+/course/edx-c-programming-getting-started-11534,C Programming: Getting Started,/university/universite-de-montreal,Zero out of five stars,,,edx,cs
+/course/edx-matematicheskie-i-instrumentalnye-metody-mashinnogo-obucheniya-17272,Математические и инструментальные методы машинного обучения,/university/mephi,Zero out of five stars,,,edx,cs
+/course/edx-deep-learning-essentials-18145,Deep Learning Essentials,/university/stanford,Zero out of five stars,,,edx,cs
+/course/edx-osnovy-kvantovoy-kriptografii-17273,Основы квантовой криптографии,/institution/rollys-royce,Zero out of five stars,,,edx,cs
+/course/edx-algorithms-design-and-analysis-part-2-19393,"Algorithms: Design and Analysis, Part 2",/university/indiana,Zero out of five stars,,,edx,cs
+/course/edx-introduction-to-internet-of-things-iot-19566,Introduction to Internet of Things (IoT),/university/utexas,Zero out of five stars,,,edx,cs
+/course/indiana-university-master-it-management-20604,Master’s Degree in IT Management,/university/doane,Zero out of five stars,,,edx,cs
+/course/ut-austin-master-computer-science-20605,Master’s Degree in Computer Science,/university/doane,Zero out of five stars,,,edx,cs
+/course/edx-health-informatics-and-technology-in-decision-making-11546,Health Informatics and Technology in Decision Making,/university/usmd,Zero out of five stars,,,edx,cs
+/course/edx-health-informatics-technology-in-population-healthcare-analytics-11563,Health Informatics Technology in Population Healthcare Analytics,/institution/ibm,Zero out of five stars,,,edx,cs
+/course/edx-software-testing-fundamentals-8179,Software Testing Fundamentals,/institution/israelx,Zero out of five stars,,,edx,cs
+/course/edx-fundamentos-de-la-vision-artificial-con-watson-y-opencv-20171,Fundamentos de la Visión Artificial con Watson y OpenCV,/university/berkeley,Zero out of five stars,,,edx,cs
+/course/edx-health-informatics-for-better-and-safer-healthcare-13141,Health Informatics for better and safer healthcare,/university/penn,Zero out of five stars,,,edx,cs
+/course/edx-data-science-machine-learning-and-predictions-10320,Data Science: Machine Learning and Predictions,/institution/ibm,Zero out of five stars,,,edx,cs
+/course/edx-data-structures-and-software-design-8517,Data Structures and Software Design,/university/university-of-naples,Zero out of five stars,,,edx,cs
+/course/edx-introduction-to-containers-kubernetes-and-openshift-21414,"Introduction to Containers, Kubernetes and OpenShift",/university/university-of-naples,Zero out of five stars,,,edx,cs
+/course/edx-i-sistemi-operativi-moderni-10696,I sistemi Operativi Moderni,/university/university-of-naples,Zero out of five stars,,,edx,cs
+/course/edx-il-linguaggio-naturale-dall-uomo-alla-macchina-11401,"Il linguaggio naturale, dall'uomo alla macchina",/university/epfl,Zero out of five stars,,,edx,cs
+/course/edx-nuove-tecnologie-digitali-11406,Nuove tecnologie digitali,/university/epfl,Zero out of five stars,,,edx,cs
+/course/linear-optimization-22235,Optimization: principles and algorithms - Linear optimization,/university/epfl,Zero out of five stars,,,edx,cs
+/course/network-and-discrete-optimization-22236,Optimization: principles and algorithms - Network and discrete optimization,/university/urfu,Zero out of five stars,,,edx,cs
+/course/unconstrained-nonlinear-optimization-22237,Optimization: principles and algorithms - Unconstrained nonlinear optimization,/institution/microsoft,Zero out of five stars,,,edx,cs
+/course/generating-discrete-sequences-language-and-music-40996,Generating discrete sequences: language and music,/institution/ibm,Zero out of five stars,,,edx,cs
+/course/edx-microsoft-service-adoption-specialist-11972,Microsoft Service Adoption Specialist,/institution/microsoft,Zero out of five stars,,,edx,cs
+/course/ibm-deep-learning-18383,Deep Learning,/university/dartmouth,Zero out of five stars,,,edx,cs
+/course/microsoft-introduction-to-computer-science-18416,Introduction to Computer Science,/university/curtin,Zero out of five stars,,,edx,cs
+/course/edx-c-programming-advanced-data-types-11536,C Programming: Advanced Data Types,/institution/linuxfoundation,Zero out of five stars,,,edx,cs
+/course/edx-communicating-with-robots-and-bots-15152,Communicating with Robots and Bots,/university/mit,Zero out of five stars,,,edx,cs
+/course/edx-open-source-and-the-5g-transition-13842,Open Source and the 5G Transition,/university/iitb,Zero out of five stars,,,edx,cs
+/course/edx-global-health-informatics-to-improve-quality-of-care-7886,Global Health Informatics to Improve Quality of Care,/university/iitb,Zero out of five stars,,,edx,cs
+/course/edx-implementation-of-data-structures-5753,Implementation of Data Structures,/university/tsinghua,Zero out of five stars,,,edx,cs
+/course/edx-foundations-of-data-structures-5755,Foundations of Data Structures,/university/tsinghua,Zero out of five stars,,,edx,cs
+/course/edx-computational-geometry-5434,计算几何 | Computational Geometry,/university/universite-de-montreal,Zero out of five stars,,,edx,cs
+/course/edx-big-data-machine-learning-12739,Big Data Machine Learning | 大数据机器学习,/university/delft,Zero out of five stars,,,edx,cs
+/course/recommender-systems-behind-the-screen-22799,Recommender Systems: Behind the Screen,/university/delft,Zero out of five stars,,,edx,cs
+/course/edx-ai-in-practice-preparing-for-ai-21197,AI in Practice: Preparing for AI,/university/ethzurich,Zero out of five stars,,,edx,cs
+/course/edx-ai-in-practice-applying-ai-21198,AI in Practice: Applying AI,/institution/israelx,Zero out of five stars,,,edx,cs
+/course/self-driving-cars-with-duckietown-21872,Self-Driving Cars with Duckietown,/institution/israelx,Zero out of five stars,,,edx,cs
+/course/navigation-and-place-editing-algorithms-39428,Bayesian Algorithms for Self-Driving Cars,/university/bar-ilan,Zero out of five stars,,,edx,cs
+/course/autonomous-robots-39429,Autonomous robots,/institution/linuxfoundation,Zero out of five stars,,,edx,cs
+/course/edx-essentials-of-genomics-and-biomedical-informatics-13426,Essentials of Genomics and Biomedical Informatics,/institution/ibm,Zero out of five stars,,,edx,cs
+/course/edx-introduction-to-hyperledger-sovereign-identity-blockchain-solutions-indy-aries-ursa-17196,"Introduction to Hyperledger Sovereign Identity Blockchain Solutions: Indy, Aries & Ursa",/institution/ibm,Zero out of five stars,,,edx,cs
+/course/introduction-to-ibm-zos-mainframe-45965,Introduction to IBM z/OS Mainframe,/institution/ibm,Zero out of five stars,,,edx,cs
+/course/introduction-to-system-programming-on-ibm-z-45966,Introduction to System Programming on IBM Z,/institution/consensys,Zero out of five stars,,,edx,cs
+/course/introduction-to-zos-commands-and-panels-on-ibm-z-45967,Introduction to z/OS Commands and Panels on IBM Z,/university/anahuac,Zero out of five stars,,,edx,cs
+/course/hyperledger-besu-essentials-creating-a-private-bl-45964,Hyperledger Besu Essentials: Creating a Private Blockchain Network,/institution/linuxfoundation,Zero out of five stars,,,edx,cs
+/course/foundations-and-structural-tools-22645,DevOps: Foundations and tools,/institution/ibm,Zero out of five stars,,,edx,cs
+/course/edx-introduction-to-onap-complete-network-automation-11362,Introduction to ONAP: Complete Network Automation,/institution/ibm,Zero out of five stars,,,edx,cs
+/course/edx-deep-learning-fundamentals-with-keras-11732,Deep Learning Fundamentals with Keras,/institution/ibm,Zero out of five stars,,,edx,cs
+/course/edx-deep-learning-with-tensorflow-11734,Deep Learning with Tensorflow,/institution/ibm,Zero out of five stars,,,edx,cs
+/course/edx-applied-deep-learning-capstone-project-11736,Applied Deep Learning Capstone Project,/institution/ibm,Zero out of five stars,,,edx,cs
+/course/edx-introduction-to-watson-ai-17902,Introduction to Watson AI,/university/anahuac,Zero out of five stars,,,edx,cs
+/course/edx-computer-vision-and-image-processing-fundamentals-17907,Computer Vision and Image Processing Fundamentals,/institution/ibm,Zero out of five stars,,,edx,cs
+/course/fundamentos-y-herramientas-estructurales-de-devop-22647,Fundamentos y Herramientas de DevOps,/institution/ibm,Zero out of five stars,,,edx,cs
+/course/introduction-to-linux-system-administration-with--53135,Introduction to Linux System Administration with IBM Power Systems,/university/ubc,Zero out of five stars,,,edx,cs
+/course/zos-rexx-programming-56024,Z/OS REXX Programming,/university/purdue,Zero out of five stars,,,edx,cs
+/course/implementation-strategies-ai-and-cognitive-comput-23304,Implementation Strategies: AI and Cognitive Computing,/institution/linuxfoundation,Zero out of five stars,,,edx,cs
+/course/introduction-to-deep-learning-2-33404,Introduction to Deep Learning,/institution/ibm,Zero out of five stars,,,edx,cs
+/course/edx-introduction-to-open-source-networking-technologies-11389,Introduction to Open Source Networking Technologies,/university/nus,Zero out of five stars,,,edx,cs
+/course/edx-deep-learning-with-python-and-pytorch-11733,Deep Learning with Python and PyTorch,/institution/linuxfoundation,Zero out of five stars,,,edx,cs
+/course/edx-procedural-modelling-17212,Procedural Modelling,/institution/ibm,Zero out of five stars,,,edx,cs
+/course/edx-becoming-a-hyperledger-aries-developer-19113,Becoming a Hyperledger Aries Developer,/university/epfl,Zero out of five stars,,,edx,cs
+/course/edx-pytorch-basics-for-machine-learning-20795,PyTorch Basics for Machine Learning,/university/anahuac,Zero out of five stars,,,edx,cs
+/course/iot-systems-and-industrial-applications-with-desi-47956,IoT Systems and Industrial Applications with Design Thinking,/university/universite-de-montreal,Zero out of five stars,,,edx,cs
+/course/mejora-tu-negocio-con-inteligencia-artificial-47287,Mejora tu Negocio con Inteligencia Artificial,/university/wgu,Zero out of five stars,,,edx,cs
+/course/edx-bias-and-discrimination-in-ai-18144,Bias and Discrimination in AI,/university/nus,Zero out of five stars,,,edx,cs
+/course/edx-information-technology-foundations-17970,Information Technology Foundations,/university/chicago,Zero out of five stars,,,edx,cs
+/course/edx-generative-modelling-17216,Generative Modelling,/university/chicago,Zero out of five stars,,,edx,cs
+/course/quantum-computing-24327,Introduction to Quantum Computing for Everyone,/institution/ibm,Zero out of five stars,,,edx,cs
+/course/introduction-to-quantum-computing-for-everyone-2-25375,Introduction to Quantum Computing for Everyone 2,/institution/ibm,Zero out of five stars,,,edx,cs
+/course/introducing-zos-unix-system-services-57794,Introducing z/OS UNIX System Services,/university/nus,Zero out of five stars,,,edx,cs
+/course/ibm-z-app-modernization-57795,IBM Z App Modernization,/institution/linuxfoundation,Zero out of five stars,,,edx,cs
+/course/edx-performative-modelling-17217,Performative Modelling,/university/rosario,Zero out of five stars,,,edx,cs
+/course/edx-business-considerations-for-edge-computing-19605,Business Considerations for Edge Computing,/university/rosario,Zero out of five stars,,,edx,cs
+/course/edx-introduccion-al-internet-de-las-cosas-iot-y-sus-aplicaciones-17111,Introducción al Internet de las cosas (IoT) y sus aplicaciones,/university/rudn,Zero out of five stars,,,edx,cs
+/course/edx-internet-de-las-cosas-iot-y-big-data-17112,Internet de las cosas (IoT) y Big Data,/institution/linuxfoundation,Zero out of five stars,,,edx,cs
+/course/dispute-resolution-and-artificial-intelligence-58279,Dispute Resolution and Artificial Intelligence,/university/hmc,Zero out of five stars,,,edx,cs
+/course/risc-v-toolchain-and-compiler-optimization-techni-58737,RISC-V Toolchain and Compiler Optimization Techniques,/institution/google,Zero out of five stars,,,edx,cs
+/course/computer-architecture-34207,Computer Architecture,/university/nus,Zero out of five stars,,,edx,cs
+/course/google-ai-for-anyone-56590,Google AI for Anyone,/university/columbia,Zero out of five stars,,,edx,cs
+/course/nus-spatial-computational-thinking-18353,NUS Spatial Computational Thinking,/university/anahuac,Zero out of five stars,,,edx,cs
+/course/columbiax-artificial-intelligence-18306,Artificial Intelligence,/institution/ibm,Zero out of five stars,,,edx,cs
+/course/anahuacx-fundamentos-de-devops-22732,Fundamentos de DevOps: Optimiza el desarrollo del software,/university/utexas,Zero out of five stars,,,edx,cs
+/course/deep-learning-22174,Deep Learning with IBM,/university/utexas,Zero out of five stars,,,edx,cs
+/course/edx-laff-on-programming-for-correctness-7852,LAFF – On Programming for Correctness,/institution/ibm,Zero out of five stars,,,edx,cs
+/course/edx-laff-on-programming-for-high-performance-13675,LAFF-On Programming for High Performance,/institution/ibm,Zero out of five stars,,,edx,cs
+/course/edx-machine-learning-aprendizaje-automatico-con-python-una-introduccion-practica-16970,Machine Learning (aprendizaje automático) con Python: una introducción práctica,/institution/ibm,Zero out of five stars,,,edx,cs
+/course/edx-aplicaciones-de-ia-con-watson-20172,Aplicaciones de IA con Watson,/institution/ibm,Zero out of five stars,,,edx,cs
+/course/edx-inteligencia-artificial-chatbots-sin-programacion-20083,Inteligencia artificial: Chatbots sin programación,/institution/ibm,Zero out of five stars,,,edx,cs
+/course/edx-introduccion-a-la-inteligencia-artificial-de-watson-20084,Introducción a la Inteligencia Artificial de Watson,/university/curtin,Zero out of five stars,,,edx,cs
+/course/edx-inteligencia-artificial-para-todos-domina-los-fundamentos-20085,Inteligencia Artificial para todos: Domina los fundamentos,/university/curtin,Zero out of five stars,,,edx,cs
+/course/edx-iot-sensors-and-devices-9751,IoT Sensors and Devices,/institution/linuxfoundation,Zero out of five stars,,,edx,cs
+/course/edx-iot-networks-and-protocols-9752,IoT Networks and Protocols,/institution/linuxfoundation,Zero out of five stars,,,edx,cs
+/course/open-sourse-software-development-linux-for-develo-61426,Open Source Software Development: Linux for Developers,/university/fr-mines-telecom,Zero out of five stars,,,edx,cs
+/course/linux-tools-for-developers-61429,Linux Tools for Software Development,/institution/arm,Zero out of five stars,,,edx,cs
+/course/artificial-intelligence-algorithmic-information-a-47955,Understanding Artificial Intelligence through Algorithmic Information Theory,/university/rice,Zero out of five stars,,,edx,cs
+/course/build-your-first-iot-application-with-arm-61314,Build Your First Internet of Things (IoT) Application on Arm,/institution/redhat,Zero out of five stars,,,edx,cs
+/course/edx-signals-systems-and-learning-20053,"Signals, Systems, and Learning",/institution/ibm,Zero out of five stars,,,edx,cs
+/course/edx-fundamentals-of-red-hat-enterprise-linux-8670,Fundamentals of Red Hat Enterprise Linux,/institution/google,Zero out of five stars,,,edx,cs
+/course/architecting-applications-for-ibm-z-and-cloud-66054,Architecting Applications for IBM Z and Cloud,/institution/linuxfoundation,Zero out of five stars,,,edx,cs
+/course/google-ai-for-javascript-developers-with-tensorfl-56589,Google AI for JavaScript developers with TensorFlow.js,/institution/ibm,Zero out of five stars,,,edx,cs
+/course/edx-nfv-acceleration-an-introduction-to-opnfv-11361,NFV Acceleration: An Introduction to OPNFV,/university/harvard,Zero out of five stars,,,edx,cs
+/course/devops-basics-for-everyone-66374,DevOps Basics for Everyone,/university/harvard,Zero out of five stars,,,edx,cs
+/course/edx-fundamentals-of-tinyml-21641,Fundamentals of TinyML,/university/harvard,Zero out of five stars,,,edx,cs
+/course/edx-applications-of-tinyml-21642,Applications of TinyML,/university/harvard,Zero out of five stars,,,edx,cs
+/course/edx-deploying-tinyml-21643,Deploying TinyML,/university/rosario,Zero out of five stars,,,edx,cs
+/course/mlops-for-scaling-tinyml-66338,MLOps for Scaling TinyML,/university/purdue,Zero out of five stars,,,edx,cs
+/course/edx-diseno-de-sistemas-de-informacion-gerencial-para-intranet-con-microsoft-access-11413,Diseño de sistemas de información gerencial para intranet con Microsoft Access,/university/waseda,Zero out of five stars,,,edx,cs
+/course/computer-applications-of-artificial-intelligence--52912,Computer Applications of Artificial Intelligence and e-Construction,/university/waseda,Zero out of five stars,,,edx,cs
+/course/edx-iot-system-architecture-design-and-evaluation-13241,IoT System Architecture: Design and Evaluation,/institution/linuxfoundation,Zero out of five stars,,,edx,cs
+/course/edx-iot-system-design-software-and-hardware-integration-12767,IoT System Design: Software and Hardware Integration,/university/rosario,Zero out of five stars,,,edx,cs
+/course/edx-introduction-to-kubernetes-8764,Introduction to Kubernetes,/institution/statistics-dot-com,Zero out of five stars,,,edx,cs
+/course/introduccion-a-machine-learning-96664,Introducción a Machine Learning,/university/tsinghua,Zero out of five stars,,,edx,cs
+/course/machine-learning-ops-ml-ops-building-a-pipeline-u-96679,MLOps1 (Azure): Deploying AI & ML Models in Production using Microsoft Azure Machine Learning,/institution/linuxfoundation,Zero out of five stars,,,edx,cs
+/course/edx-data-structures-and-algorithm-design-part-i-1646,Data Structures and Algorithm Design Part I | 数据结构与算法设计(上),/university/doane,Zero out of five stars,,,edx,cs
+/course/introduction-to-service-mesh-with-linkerd-22447,Introduction to Service Mesh with Linkerd,/university/delft,Zero out of five stars,,,edx,cs
+/course/healthcare-analytics-and-decision-making-2-96659,Healthcare Analytics and Decision Making,/institution/ibm,Zero out of five stars,,,edx,cs
+/course/fundamentals-of-quantum-information-34203,Fundamentals of Quantum Information,/university/anahuac,Zero out of five stars,,,edx,cs
+/course/linux-commands-shell-scripting-57073,Linux Commands & Shell Scripting,/university/javeriana,Zero out of five stars,,,edx,cs
+/course/edx-introduccion-a-la-inteligencia-artificial-17195,Introducción a la Inteligencia Artificial,/university/javeriana,Zero out of five stars,,,edx,cs
+/course/edx-fundamentos-de-la-tecnologia-blockchain-19488,Fundamentos de la Tecnología Blockchain,/institution/acca,Zero out of five stars,,,edx,cs
+/course/arduino-para-ninos-y-jovenes-55121,Arduino para niños ¡vamos al espacio!,/university/chalmers,Zero out of five stars,,,edx,cs
+/course/machine-learning-with-python-for-finance-professi-43714,Machine learning with Python for finance professionals,/university/anahuac,Zero out of five stars,,,edx,cs
+/course/edx-sensor-fusion-and-non-linear-filtering-for-automotive-systems-10300,Sensor Fusion and Non-linear Filtering for Automotive Systems,/university/anahuac,Zero out of five stars,,,edx,cs
+/course/devops-cicd-pipeline-automation-from-development--22646,DevOps CI/CD Pipeline: Automation from development to deployment,/university/chalmers,Zero out of five stars,,,edx,cs
+/course/devops-pipeline-automatizacion-hasta-el-despliegu-22648,DevOps Pipeline: Automatización hasta el despliegue,/institution/linuxfoundation,Zero out of five stars,,,edx,cs
+/course/edx-computer-systems-design-for-energy-efficiency-6993,Computer Systems Design for Energy Efficiency,/university/uw,Zero out of five stars,,,edx,cs
+/course/introduction-to-risc-v-34201,Introduction to RISC-V,/university/uw,Zero out of five stars,,,edx,cs
+/course/edx-leadership-and-management-for-pm-practitioners-in-it-8589,Leadership and Management for PM Practitioners in IT,/university/tokyotech,Zero out of five stars,,,edx,cs
+/course/edx-portfolio-management-governance-the-pmo-8590,"Portfolio Management, Governance, & the PMO",/university/tokyotech,Zero out of five stars,,,edx,cs
+/course/edx-introduction-to-computer-science-and-programming-13874,プログラミングしながら学ぶコンピュータサイエンス入門 : Introduction to Computer Science and Programming,/institution/linuxfoundation,Zero out of five stars,,,edx,cs
+/course/introduction-to-computer-science-and-programming-32127,Introduction to Computer Science and Programming,/institution/ibm,Zero out of five stars,,,edx,cs
+/course/building-a-risc-v-cpu-core-34202,Building a RISC-V CPU Core,/university/tecdemonterrey,Zero out of five stars,,,edx,cs
+/course/technical-support-basics-for-everyone-104438,Technical Support Basics for Everyone,/university/berkeley,Zero out of five stars,,,edx,cs
+/course/algoritmica-basica-48081,Algoritmos y Programación en R,/institution/idb,Zero out of five stars,,,edx,cs
+/course/edx-blockchain-technology-11428,Blockchain Technology,/university/chalmers,Zero out of five stars,,,edx,cs
+/course/como-hacer-uso-responsable-de-la-inteligencia-art-57800,¿Cómo hacer uso responsable de la inteligencia artificial?,/institution/ibm,Zero out of five stars,,,edx,cs
+/course/edx-decision-making-for-autonomous-systems-10305,Decision-Making for Autonomous Systems,/institution/learn-ventures,Zero out of five stars,,,edx,cs
+/course/introduction-to-blockchain-70687,Introduction to Blockchain,/university/uc3m,Zero out of five stars,,,edx,cs
+/course/deep-rl-2-104281,Fundamentals of Deep Reinforcement Learning,/institution/ibm,Zero out of five stars,,,edx,cs
+/course/edx-introduccion-a-la-vision-por-computador-desarrollo-de-aplicaciones-con-opencv-3926,Introducción a la visión por computador: desarrollo de aplicaciones con OpenCV,/university/uc3m,Zero out of five stars,,,edx,cs
+/course/edx-ai-applications-with-watson-11731,AI Applications with Watson,/university/rosario,Zero out of five stars,,,edx,cs
+/course/edx-the-software-architect-code-building-the-digital-world-4812,The Software Architect Code: Building the Digital World,/university/uc3m,Zero out of five stars,,,edx,cs
+/course/redes-de-computadores-56556,Redes de computadores,/institution/linuxfoundation,Zero out of five stars,,,edx,cs
+/course/edx-cyber-security-basics-a-hands-on-approach-7849,Cyber Security Basics: A Hands-on Approach,/institution/ibm,Zero out of five stars,,,edx,cs
+/course/getting-started-with-self-sovereign-identity-104398,Getting Started with Self-Sovereign Identity,/university/kuleuven,Zero out of five stars,,,edx,cs
+/course/introduction-to-hardware-and-operating-systems-105172,Hardware and Operating Systems,/university/canterbury,Zero out of five stars,,,edx,cs
+/course/edx-uml-class-diagrams-for-software-engineering-7837,UML Class Diagrams for Software Engineering,/university/canterbury,Zero out of five stars,,,edx,cs
+/course/visualizing-text-analytics-with-python-22077,Text Analytics 2: Visualizing Natural Language Processing,/institution/linuxfoundation,Zero out of five stars,,,edx,cs
+/course/introduction-to-text-analytics-with-python-22078,Text Analytics 1: Introduction to Natural Language Processing,/institution/linuxfoundation,Zero out of five stars,,,edx,cs
+/course/edx-business-considerations-for-5g-with-edge-iot-and-ai-13841,"Business Considerations for 5G with Edge, IoT, and AI",/institution/linuxfoundation,Zero out of five stars,,,edx,cs
+/course/introduction-to-backstage-developer-portals-made--110320,Introduction to Backstage: Developer Portals Made Easy,/institution/linuxfoundation,Zero out of five stars,,,edx,cs
+/course/pytorch-and-deep-learning-for-decision-makers-104397,PyTorch and Deep Learning for Decision Makers,/university/tecdemonterrey,Zero out of five stars,,,edx,cs
+/course/introduction-to-istio-114646,Introduction to Istio,/institution/web3,Zero out of five stars,,,edx,cs
+/course/inteligencia-artificial-para-negocios-110416,Inteligencia Artificial para negocios,/institution/web3,Zero out of five stars,,,edx,cs
+/course/introduction-to-polkadot-107515,Introduction to Polkadot,/university/tum,Zero out of five stars,,,edx,cs
+/course/introduction-to-blockchain-and-web3-107516,Introduction to Blockchain and Web3,/institution/linuxfoundation,Zero out of five stars,,,edx,cs
+/course/edx-ilabx-the-internet-masterclass-13734,iLabX – The Internet Masterclass,/institution/ibm,Zero out of five stars,,,edx,cs
+/course/introduction-to-kubernetes-on-edge-with-k3s-40995,Introduction to Kubernetes on Edge with K3s,/university/uc3m,Zero out of five stars,,,edx,cs
+/course/introduction-to-networking-and-storage-105168,Networking and Storage Essentials,/institution/ibm,Zero out of five stars,,,edx,cs
+/course/edx-introduction-to-java-programming-fundamental-data-structures-and-algorithms-7454,Introduction to Java Programming: Fundamental Data Structures and Algorithms,/university/upv,Zero out of five stars,,,edx,cs
+/course/continuous-integration-and-delivery-ci-cd-105174,Continuous Integration and Delivery (CI/CD),/institution/ibm,Zero out of five stars,,,edx,cs
+/course/edx-introduccion-al-internet-de-las-cosas-iot-15147,Introducción al Internet de las Cosas (IoT),/institution/ibm,Zero out of five stars,,,edx,cs
+/course/blockchain-framework-platforms-70686,Blockchain Framework & Platforms,/institution/ibm,Zero out of five stars,,,edx,cs
+/course/edx-ai-chatbots-without-programming-11326,AI Chatbots without Programming,/institution/ibm,Zero out of five stars,,,edx,cs
+/course/technical-support-case-studies-capstone-105170,Technical Support Case Studies and Capstone,/university/rosario,Zero out of five stars,,,edx,cs
+/course/ibm-blockchain-essentials-71184,Blockchain Essentials,/university/itmo,Zero out of five stars,,,edx,cs
+/course/urosariox-internet-de-las-cosas-iot-big-data-y-su-18359,"Internet de las cosas (IoT), Big Data y sus aplicaciones",/university/gatech,Zero out of five stars,,,edx,cs
+/course/itmox-iot-from-hardware-to-practice-18364,IoT: from hardware to practice,/university/gatech,Zero out of five stars,,,edx,cs
+/course/gtx-human-computer-interaction-18366,Human-Computer Interaction,/university/indiana,Zero out of five stars,,,edx,cs
+/course/gtx-health-informatics-on-fhir-18372,Health Informatics on FHIR,/university/ucsd,Zero out of five stars,,,edx,cs
+/course/iux-information-systems-18299,Information Systems,/university/curtin,Zero out of five stars,,,edx,cs
+/course/ucsandiegox-algorithms-and-data-structures-18334,Algorithms and Data Structures,/university/penn,Zero out of five stars,,,edx,cs
+/course/curtinx-internet-of-things-iot-18336,Internet of Things (IoT),/university/technion,Zero out of five stars,,,edx,cs
+/course/pennx-computer-science-essentials-for-software-de-18407,Computer Science Essentials for Software Development,/university/uw,Zero out of five stars,,,edx,cs
+/course/israelx-sparse-representations-from-theory-to-pra-18413,Sparse Representations in Signal and Image Processing,/institution/linuxfoundation,Zero out of five stars,,,edx,cs
+/course/uwashingtonx-it-project-management-18443,IT Project Management,/university/harvard,Zero out of five stars,,,edx,cs
+/course/linuxfoundationx-blockchain-for-business-18444,Blockchain for Business,/university/delft,Zero out of five stars,,,edx,cs
+/course/harvardx-computer-science-and-mobile-apps-18457,Computer Science and Mobile Apps,/university/harvard,Zero out of five stars,,,edx,cs
+/course/delftx-quantum-computing-and-quantum-internet-18464,Quantum 101: Quantum Computing & Quantum Internet,/university/mit,Zero out of five stars,,,edx,cs
+/course/harvardx-computer-science-for-web-programming-18465,Computer Science for Web Programming,/university/upv,Zero out of five stars,,,edx,cs
+/course/mitx-computational-thinking-using-python-18506,Computational Thinking using Python,/university/upv,Zero out of five stars,,,edx,cs
+/course/upvalenciax-it-fundamentals-for-business-professi-18419,IT Fundamentals for Business Professionals,/university/rosario,Zero out of five stars,,,edx,cs
+/course/upvalenciax-fundamentos-tic-para-profesionales-de-18424,Fundamentos TIC para profesionales de negocios,/university/berkeleyuc,Zero out of five stars,,,edx,cs
+/course/diseno-de-software-para-la-toma-de-decisiones-org-18436,Diseño de software para la toma de decisiones organizacionales,/university/iitb,Zero out of five stars,,,edx,cs
+/course/uc-berkeleyx-blockchain-fundamentals-18439,Blockchain Fundamentals,/university/gatech,Zero out of five stars,,,edx,cs
+/course/fundamentals-computer-science-18480,Fundamentals of Computer Science,/university/anahuac,Zero out of five stars,,,edx,cs
+/course/gtx-data-structures-and-algorithms-23753,Data Structures and Algorithms,/institution/linuxfoundation,Zero out of five stars,,,edx,cs
+/course/anahuacx-devops-foundations-22730,DevOps Foundations: Software Development Optimization,/institution/ibm,Zero out of five stars,,,edx,cs
+/course/linuxfoundationx-developing-blockchain-based-iden-20687,Developing Blockchain-Based Identity Applications,/institution/ibm,Zero out of five stars,,,edx,cs
+/course/foundations-of-ai-20693,Foundations of AI,/institution/ibm,Zero out of five stars,,,edx,cs
+/course/ibm-fundamentos-de-inteligencia-artificial-20671,Fundamentos de Inteligencia Artificial,/university/harvard,Zero out of five stars,,,edx,cs
+/course/ibm-inteligencia-artificial-aplicada-20672,Inteligencia artificial aplicada,/university/nyu,Zero out of five stars,,,edx,cs
+/course/harvardx-cs50-ap-computer-science-principles-21947,CS50's AP® Computer Science Principles,/university/wgu,Zero out of five stars,,,edx,cs
+/course/nyux-computer-science-fundamentals-21949,Computer Science Fundamentals,/institution/linuxfoundation,Zero out of five stars,,,edx,cs
+/course/wgux-introduction-to-information-technology-21955,Introduction to Information Technology,/university/harvard,Zero out of five stars,,,edx,cs
+/course/linuxfoundationx-introduction-to-devops-practices-22523,Introduction to DevOps: Practices and Tools,/university/purdue,Zero out of five stars,,,edx,cs
+/course/harvardx-tiny-machine-learning-21963,Tiny Machine Learning (TinyML),/university/purdue,Zero out of five stars,,,edx,cs
+/course/purduex-quantum-technology-computing-21978,Quantum Technology: Computing,/university/delft,Zero out of five stars,,,edx,cs
+/course/purduex-quantum-technology-detectors-and-networki-21980,Quantum Technology: Detectors and Networking,/university/canterbury,Zero out of five stars,,,edx,cs
+/course/delftx-ai-in-practice-21981,AI in Practice,/university/chicago,Zero out of five stars,,,edx,cs
+/course/ucx-text-analytics-with-python-22178,Text Analytics with Python,/university/uam,Zero out of five stars,,,edx,cs
+/course/uchicagox-introduction-to-quantum-computing-27240,Quantum Computing for Everyone,/institution/ibm,Zero out of five stars,,,edx,cs
+/course/uamx-desarrollo-y-gestion-de-proyectos-informatic-34176,Desarrollo y gestión de proyectos informáticos,/university/anahuac,Zero out of five stars,,,edx,cs
+/course/ibm-zos-mainframe-practitioner-46024,IBM z/OS Mainframe Practitioner,/institution/ibm,Zero out of five stars,,,edx,cs
+/course/anahuacx-inteligencia-artificial-aplicada-a-los-n-48038,Inteligencia Artificial aplicada a los negocios,/university/nus,Zero out of five stars,,,edx,cs
+/course/deep-learning-48138,Deep Learning,/institution/ibm,Zero out of five stars,,,edx,cs
+/course/nus-spatial-computational-thinking-53939,Spatial Computational Thinking,/university/chicago,Zero out of five stars,,,edx,cs
+/course/ibm-devops-cloud-and-agile-foundations-66411,"DevOps, Cloud, and Agile Foundations",/university/curtin,Zero out of five stars,,,edx,cs
+/course/uchicagox-quantum-computer-systems-design-56785,Quantum Computer Systems Design,/university/indiana,Zero out of five stars,,,edx,cs
+/course/curtinx-software-defined-networking-58011,Software Defined Networking (SDN),/university/harvard,Zero out of five stars,,,edx,cs
+/course/iux-information-systems-110667,Information Systems,/university/harvard,Zero out of five stars,,,edx,cs
+/course/harvardx-applied-tiny-machine-learning-tinyml-for-92454,Applied Tiny Machine Learning (TinyML) for Scale,/institution/ibm,Zero out of five stars,,,edx,cs
+/course/harvardx-computer-science-for-python-programming-98208,Computer Science for Python Programming,/institution/ibm,Zero out of five stars,,,edx,cs
+/course/ibm-devops-and-software-engineering-106877,DevOps and Software Engineering Professional Certificate,/university/wisconsin,Zero out of five stars,,,edx,cs
+/course/ibm-information-technology-support-106878,Information Technology (IT) Support PC,/university/purdue,Zero out of five stars,,,edx,cs
+/course/digital-curation-116670,"Sustainable DAM: Preservation, Access, and Brand Management",/university/purdue,Zero out of five stars,,,edx,cs
+/course/edx-applied-quantum-computing-i-fundamentals-21183,Applied Quantum Computing I: Fundamentals,/university/usmd,Zero out of five stars,,,edx,cs
+/course/introduction-to-machine-learning-2-47957,Introduction to Scientific Machine Learning,/university/rit,Zero out of five stars,,,edx,cs
+/course/edx-cloud-computing-for-enterprises-8168,Cloud Computing for Enterprises,/institution/ibm,Zero out of five stars,,,edx,cs
+/course/edx-data-analytics-and-visualization-in-health-care-13785,Data Analytics and Visualization in Health Care,/institution/ibm,Zero out of five stars,,,edx,cs
+/course/devops-capstone-project-105238,DevOps and Software Engineering Capstone Project,/university/delft,Zero out of five stars,,,edx,cs
+/course/monitoring-and-observability-for-application-deve-105166,Monitoring and Observability for Application Developers,/university/purdue,Zero out of five stars,,,edx,cs
+/course/modern-distributed-systems-96687,Modern Distributed Systems,/university/purdue,Zero out of five stars,,,edx,cs
+/course/edx-quantum-detectors-21184,Quantum Detectors,/university/curtin,Zero out of five stars,,,edx,cs
+/course/edx-applied-quantum-computing-ii-hardware-21185,Applied Quantum Computing II: Hardware,/university/curtin,Zero out of five stars,,,edx,cs
+/course/introduction-to-software-defined-networking-37602,Introduction to Software Defined Networking,/university/curtin,Zero out of five stars,,,edx,cs
+/course/software-defined-networking-sdn-access-security-56650,Software Defined Networking (SDN) Access Security,/university/usmd,Zero out of five stars,,,edx,cs
+/course/software-defined-networking-sdn-deployment-56651,Software Defined Networking (SDN) Deployment,/university/usmd,Zero out of five stars,,,edx,cs
+/course/edx-cloud-computing-security-8164,Cloud Computing Security,/university/purdue,Zero out of five stars,,,edx,cs
+/course/edx-cloud-computing-infrastructure-8181,Cloud Computing Infrastructure,/university/purdue,Zero out of five stars,,,edx,cs
+/course/edx-quantum-networking-21182,Quantum Networking,/university/purdue,Zero out of five stars,,,edx,cs
+/course/edx-applied-quantum-computing-iii-algorithm-and-software-21186,Applied Quantum Computing III: Algorithm and Software,/university/usmd,Zero out of five stars,,,edx,cs
+/course/edx-boltzmann-law-physics-to-computing-21012,Boltzmann Law: Physics to Computing,/university/uta,Zero out of five stars,,,edx,cs
+/course/edx-cloud-computing-engineering-and-management-8172,Cloud Computing Engineering and Management,/university/chicago,Zero out of five stars,,,edx,cs
+/course/edx-predictive-modeling-in-learning-analytics-9285,Predictive Modeling in Learning Analytics,/university/chicago,Zero out of five stars,,,edx,cs
+/course/quantum-computer-systems-ii-56653,Quantum Computer Systems Design II: Principles of Quantum Architecture,/university/chicago,Zero out of five stars,,,edx,cs
+/course/quantum-computer-systems-design-i-56652,Quantum Computer Systems Design I: Intro to Quantum Computation and Programming,/university/purdue,Zero out of five stars,,,edx,cs
+/course/quantum-computer-systems-design-iii-56654,Quantum Computer Systems Design III: Working with Noisy Systems,/university/mit,Zero out of five stars,,,edx,cs
+/course/edx-quantum-detectors-and-sensors-21181,Quantum Detectors and Sensors,/university/chalmers,Zero out of five stars,,,edx,cs
+/course/understanding-the-world-through-data-107514,Understanding the World Through Data,/university/aachen,Zero out of five stars,,,edx,cs
+/course/edx-multi-object-tracking-for-automotive-systems-10303,Multi-Object Tracking for Automotive Systems,/university/chalmers,Zero out of five stars,,,edx,cs
+/course/automated-and-connected-driving-challenges-110321,Automated and Connected Driving Challenges,/university/purdue,Zero out of five stars,,,edx,cs
+/course/edx-computer-system-design-advanced-concepts-of-modern-microprocessors-7046,Computer System Design: Advanced Concepts of Modern Microprocessors,/institution/microsoft,Zero out of five stars,,,edx,cs
+/course/computer-vision-for-embedded-systems-96635,Computer Vision for Embedded Systems,/institution/linuxfoundation,Zero out of five stars,,,edx,cs
+/course/edx-windows-powershell-fundamentals-3340,Windows PowerShell Fundamentals,/institution/microsoft,Zero out of five stars,,,edx,cs
+/course/edx-essentials-of-linux-system-administration-3657,Essentials of Linux System Administration,/institution/microsoft,Zero out of five stars,,,edx,cs
+/course/edx-office-365-managing-identities-and-services-4008,Office 365: Managing Identities and Services,/institution/microsoft,Zero out of five stars,,,edx,cs
+/course/edx-dev206-1x-introduction-to-xaml-and-application-development-4063,DEV206.1x: Introduction to XAML and Application Development,/institution/microsoft,Zero out of five stars,,,edx,cs
+/course/edx-managing-devices-using-enterprise-mobility-suite-4102,Managing Devices using Enterprise Mobility Suite,/university/berkeley,Zero out of five stars,,,edx,cs
+/course/edx-exchange-2013-fundamentals-5022,Exchange 2013 Fundamentals,/university/fr-mines-telecom,Zero out of five stars,,,edx,cs
+/course/edx-cs125x-advanced-distributed-machine-learning-with-apache-spark-5853,CS125x: Advanced Distributed Machine Learning with Apache Spark,/institution/ieee,Zero out of five stars,,,edx,cs
+/course/edx-digital-networks-essentials-6719,Digital Networks Essentials,/institution/kiron,Zero out of five stars,,,edx,cs
+/course/edx-the-essentials-of-the-togaf-9-1-adm-6491,The Essentials of the TOGAF 9.1 ADM,/university/mit,Zero out of five stars,,,edx,cs
+/course/edx-computer-networks-and-the-internet-8665,Computer Networks and the Internet,/university/mit,Zero out of five stars,,,edx,cs
+/course/edx-quantum-information-science-i-part-2-10259,"Quantum Information Science I, Part 2",/institution/microsoft,Zero out of five stars,,,edx,cs
+/course/edx-quantum-information-science-i-part-3-10276,"Quantum Information Science I, Part 3",/institution/microsoft,Zero out of five stars,,,edx,cs
+/course/edx-provisioning-office-365-services-7484,Provisioning Office 365 Services,/institution/microsoft,Zero out of five stars,,,edx,cs
+/course/edx-manage-office-365-identities-8716,Manage Office 365 Identities,/university/mit,Zero out of five stars,,,edx,cs
+/course/edx-microsoft-professional-capstone-system-administration-9842,Microsoft Professional Capstone : System Administration,/university/mit,Zero out of five stars,,,edx,cs
+/course/edx-quantum-information-science-ii-quantum-states-noise-and-error-correction-11367,"Quantum Information Science II: Quantum states, noise and error correction",/university/uta,Zero out of five stars,,,edx,cs
+/course/edx-quantum-information-science-ii-advanced-quantum-algorithms-and-information-theory-11411,Quantum Information Science II: Advanced quantum algorithms and information theory,/institution/microsoft,Zero out of five stars,,,edx,cs
+/course/edx-natural-language-processing-and-language-understanding-in-educational-research-9136,Natural Language Processing and Language Understanding in Educational Research,/institution/microsoft,Zero out of five stars,,,edx,cs
+/course/edx-microsoft-sharepoint-2016-authentication-and-security-7157,Microsoft SharePoint 2016: Authentication and Security,/institution/microsoft,Zero out of five stars,,,edx,cs
+/course/edx-windows-10-security-features-9315,Windows 10 Security Features,/institution/microsoft,Zero out of five stars,,,edx,cs
+/course/edx-windows-server-2016-security-features-9316,Windows Server 2016 Security Features,/institution/microsoft,Zero out of five stars,,,edx,cs
+/course/edx-security-in-office-365-9618,Security in Office 365,/university/mit,Zero out of five stars,,,edx,cs
+/course/edx-introduction-to-artificial-intelligence-ai-9164,Introduction to Artificial Intelligence (AI),/university/curtin,Zero out of five stars,,,edx,cs
+/course/machine-learning-for-healthcare-33547,Machine Learning for Healthcare,,,,,edx,cs
+/course/edx-iot-capstone-project-9755,IoT Capstone Project,,,,,edx,cs

@@ -1,0 +1,472 @@
+Link,Title,Platform,Level
+/course/edx-agile-leadership-principles-and-practices-11920,Agile Leadership Principles and Practices,edx,advanced
+/course/edx-agile-innovation-and-problem-solving-skills-11919,Agile Innovation and Problem Solving Skills,edx,advanced
+/course/edx-applied-scrum-for-agile-project-management-11917,Applied Scrum for Agile Project Management,edx,advanced
+/course/edx-agile-process-project-and-program-controls-11921,"Agile Process, Project, and Program Controls",edx,advanced
+/course/edx-sprint-planning-for-faster-agile-team-delivery-11918,Sprint Planning for Faster Agile Team Delivery,edx,advanced
+/course/edx-molecular-biology-part-1-dna-replication-and-repair-2907,Molecular Biology - Part 1: DNA Replication and Repair,edx,advanced
+/course/edx-excel-avanzado-importacion-y-analisis-de-datos-10329,Excel avanzado: importación y análisis de datos,edx,advanced
+/course/edx-python-for-data-science-8209,Python for Data Science,edx,advanced
+/course/edx-probability-the-science-of-uncertainty-and-data-1496,Probability - The Science of Uncertainty and Data,edx,advanced
+/course/edx-molecular-biology-part-2-transcription-and-transposition-4072,Molecular Biology - Part 2: Transcription and Transposition,edx,advanced
+/course/edx-mining-massive-datasets-2406,Mining Massive Datasets,edx,advanced
+/course/edx-automata-theory-376,Automata Theory,edx,advanced
+/course/edx-machine-learning-with-python-from-linear-models-to-deep-learning-11483,Machine Learning with Python: from Linear Models to Deep Learning,edx,advanced
+/course/edx-probability-and-statistics-in-data-science-using-python-8213,Probability and Statistics in Data Science using Python,edx,advanced
+/course/edx-convex-optimization-1577,Convex Optimization,edx,advanced
+/course/edx-cybersecurity-fundamentals-7844,Cybersecurity Fundamentals,edx,advanced
+/course/mathematical-and-computational-methods-27989,Mathematical and Computational Methods,edx,advanced
+/course/edx-high-dimensional-data-analysis-2949,High-Dimensional Data Analysis,edx,advanced
+/course/edx-thinking-critically-interpreting-randomized-clinical-trials-5703,Thinking Critically: Interpreting Randomized Clinical Trials,edx,advanced
+/course/edx-advanced-bioconductor-2976,Advanced Bioconductor,edx,advanced
+/course/edx-fundamentals-of-statistics-11482,Fundamentals of Statistics,edx,advanced
+/course/edx-case-studies-in-functional-genomics-2973,Case Studies in Functional Genomics,edx,advanced
+/course/mlops-for-scaling-tinyml-66338,MLOps for Scaling TinyML,edx,advanced
+/course/edx-type-2-diabetes-management-19116,Type 2 Diabetes Management,edx,advanced
+/course/edx-health-across-the-gender-spectrum-19163,Health Across the Gender Spectrum,edx,advanced
+/course/edx-prescription-drug-misuse-and-addiction-compassionate-care-for-a-complex-problem-5144,Prescription Drug Misuse and Addiction: Compassionate Care for a Complex Problem,edx,advanced
+/course/edx-molecular-biology-part-3-rna-processing-and-translation-7402,Molecular Biology – Part 3: RNA Processing and Translation,edx,advanced
+/course/edx-an-evidence-based-approach-to-the-diagnosis-and-management-of-migraines-in-adults-in-the-primary-care-and-general-neurology-setting-19117,An Evidence-Based Approach to the Diagnosis and Management of Migraines in Adults in the Primary Care and General Neurology Setting,edx,advanced
+/course/edx-hypertension-in-primary-care-improving-control-and-reducing-risk-19118,Hypertension in Primary Care – Improving Control and Reducing Risk,edx,advanced
+/course/edx-thinking-critically-series-interpreting-screening-trials-19121,Thinking Critically Series: Interpreting Screening Trials,edx,advanced
+/course/edx-congenital-hypothyroidism-what-every-primary-care-provider-needs-to-know-5698,Congenital Hypothyroidism: What Every Primary Care Provider Needs to Know,edx,advanced
+/course/edx-identifying-early-signs-of-psychosis-in-adolescents-and-young-adults-19208,Identifying Early Signs of Psychosis in Adolescents and Young Adults,edx,advanced
+/course/edx-presentation-and-management-of-pediatric-acute-onset-neuropsychiatric-syndrome-pans-19209,Presentation and Management of Pediatric Acute-Onset Neuropsychiatric Syndrome (PANS),edx,advanced
+/course/edx-safetyquest-level-one-qi-basics-19210,SafetyQuest: Level One - QI Basics,edx,advanced
+/course/edx-to-prescribe-or-not-to-prescribe-antibiotics-and-outpatient-infections-19313,To Prescribe or Not To Prescribe? Antibiotics and Outpatient Infections,edx,advanced
+/course/edx-managing-atrial-fibrillation-19315,Managing Atrial Fibrillation,edx,advanced
+/course/edx-antimicrobial-stewardship-improving-clinical-outcomes-by-optimization-of-antibiotic-practices-19312,Antimicrobial Stewardship: Improving Clinical Outcomes By Optimization of Antibiotic Practices,edx,advanced
+/course/edx-cell-biology-transport-and-signaling-20117,Cell Biology: Transport and Signaling,edx,advanced
+/course/edx-musculoskeletal-primer-for-the-non-orthopedist-19316,Musculoskeletal Primer for the Non-Orthopedist,edx,advanced
+/course/edx-csi-me-case-studies-in-medical-errors-19130,CSI: ME Case Studies in Medical Errors,edx,advanced
+/course/edx-optimizing-antimicrobial-therapy-with-timeouts-19314,Optimizing Antimicrobial Therapy with Timeouts,edx,advanced
+/course/edx-identifying-and-responding-to-developmental-delay-in-young-children-19162,Identifying and Responding to Developmental Delay in Young Children,edx,advanced
+/course/edx-how-to-taper-patients-off-of-chronic-opioid-therapy-19135,How To Taper Patients Off Of Chronic Opioid Therapy,edx,advanced
+/course/edx-neuromuscular-monitoring-course-19160,Neuromuscular Monitoring Course,edx,advanced
+/course/edx-safetyquest-level-four-mastering-qi-19211,SafetyQuest: Level Four - Mastering QI,edx,advanced
+/course/edx-safetyquest-level-two-moving-beyond-qi-basics-19213,SafetyQuest: Level Two - Moving Beyond QI Basics,edx,advanced
+/course/edx-safetyquest-level-three-implementing-qi-19212,SafetyQuest: Level Three - Implementing QI,edx,advanced
+/course/edx-dementia-and-diversity-in-primary-care-african-american-populations-19131,Dementia and Diversity in Primary Care: African American Populations,edx,advanced
+/course/evaluating-student-work-performance-assessments-g-45920,Evaluating Student Work from Performance Assessments to Guide NGSS Teaching and Learning: Course 4,edx,advanced
+/course/cell-biology-3-40246,Cell Biology: Cell-Cell Interactions,edx,advanced
+/course/edx-supply-chain-design-4067,Supply Chain Design,edx,advanced
+/course/cell-biology-2-22832,Cell Biology: The Cytoskeleton and Cell Cycle,edx,advanced
+/course/edx-solar-energy-photovoltaic-pv-energy-conversion-8187,Solar Energy: Photovoltaic (PV) Energy Conversion,edx,advanced
+/course/edx-solar-energy-photovoltaic-pv-systems-8188,Solar Energy: Photovoltaic (PV) Systems,edx,advanced
+/course/edx-solar-energy-integration-of-photovoltaic-systems-in-microgrids-8166,Solar Energy: Integration of Photovoltaic Systems in Microgrids,edx,advanced
+/course/edx-solar-energy-photovoltaic-pv-technologies-8177,Solar Energy: Photovoltaic (PV) Technologies,edx,advanced
+/course/edx-electronic-materials-and-devices-3211,Electronic Materials and Devices,edx,advanced
+/course/edx-discrete-time-signal-processing-2651,Discrete-Time Signal Processing,edx,advanced
+/course/edx-introduction-to-aerodynamics-931,Introduction to Aerodynamics,edx,advanced
+/course/edx-supply-chain-dynamics-4807,Supply Chain Dynamics,edx,advanced
+/course/edx-foundations-of-modern-finance-i-18037,Foundations of Modern Finance  I,edx,advanced
+/course/edx-machine-learning-fundamentals-8216,Machine Learning Fundamentals,edx,advanced
+/course/microstructural-evolution-part-1-32694,Microstructural Evolution of Materials Part 1: Statistical Mechanics,edx,advanced
+/course/advanced-fluid-mechanics-2-27995,Advanced Fluid Mechanics 2: The Navier-Stokes Equations for Viscous Flows,edx,advanced
+/course/statistics-computation-and-applications-22414,Data Analysis: Statistical Modeling and Computation in Applications,edx,advanced
+/course/edx-international-law-3179,International Law,edx,advanced
+/course/program-management-fundamentals-governing-with-ex-58653,Program Management Fundamentals – Governing with Excellence to Drive Strategic Change,edx,advanced
+/course/edx-the-history-of-medieval-medicine-through-jewish-manuscripts-6301,The History of Medieval Medicine Through Jewish Manuscripts,edx,advanced
+/course/edx-robotics-kinematics-and-mathematical-foundations-8197,Robotics: Kinematics and Mathematical Foundations,edx,advanced
+/course/edx-supply-chain-technology-and-systems-6366,Supply Chain Technology and Systems,edx,advanced
+/course/edx-financial-accounting-18040,Financial Accounting,edx,advanced
+/course/edx-mathematical-methods-for-quantitative-finance-18041,Mathematical Methods for Quantitative Finance,edx,advanced
+/course/edx-principles-of-synthetic-biology-4085,Principles of Synthetic Biology,edx,advanced
+/course/edx-supply-chains-for-manufacturing-inventory-analytics-10287,Supply Chains for Manufacturing: Inventory Analytics,edx,advanced
+/course/edx-derivatives-markets-advanced-modeling-and-strategies-18042,Derivatives Markets: Advanced Modeling and Strategies,edx,advanced
+/course/edx-supply-chain-comprehensive-exam-8479,Supply Chain Comprehensive Exam,edx,advanced
+/course/edx-foundations-of-modern-finance-ii-18039,Foundations of Modern Finance II,edx,advanced
+/course/edx-sustainable-energy-21119,Sustainable Energy,edx,advanced
+/course/edx-cybersecurity-for-critical-urban-infrastructure-19604,Cybersecurity for Critical Urban Infrastructure,edx,advanced
+/course/edx-mobile-application-experiences-part-2-mobile-app-design-5724,Mobile Application Experiences Part 2: Mobile App Design,edx,advanced
+/course/edx-optical-materials-and-devices-6012,Optical Materials and Devices,edx,advanced
+/course/edx-global-health-informatics-to-improve-quality-of-care-7886,Global Health Informatics to Improve Quality of Care,edx,advanced
+/course/advanced-fluid-mechanics-1-22514,Advanced Fluid Mechanics 1: Fundamentals,edx,advanced
+/course/edx-electronic-optical-and-magnetic-properties-of-materials-9710,"Electronic, Optical, and Magnetic Properties of Materials",edx,advanced
+/course/edx-analysis-of-transport-phenomena-i-mathematical-methods-11638,Analysis of Transport Phenomena I: Mathematical Methods,edx,advanced
+/course/edx-manufacturing-process-control-ii-10293,Manufacturing Process Control II,edx,advanced
+/course/edx-magnetic-materials-and-devices-6028,Magnetic Materials and Devices,edx,advanced
+/course/edx-collaborative-data-science-for-healthcare-21608,Collaborative Data Science for Healthcare,edx,advanced
+/course/edx-cellular-solids-part-1-structures-properties-and-engineering-applications-13062,"Cellular Solids Part 1: Structures, Properties and Engineering Applications",edx,advanced
+/course/edx-photonic-integrated-circuits-1-13331,Photonic Integrated Circuits 1,edx,advanced
+/course/energy-economics-and-policy-58172,Energy Economics and Policy,edx,advanced
+/course/principles-of-modeling-simulations-and-control-fo-41113,"Principles of Modeling, Simulations, and Control for Electric Energy Systems",edx,advanced
+/course/physics-of-covid-19-transmission-22471,Physics of COVID-19 Transmission,edx,advanced
+/course/edx-cellular-solids-part-2-applications-in-medicine-18136,Cellular Solids Part 2: Applications in Medicine,edx,advanced
+/course/genetics-part-1-104246,Genetics: The Fundamentals,edx,advanced
+/course/advanced-fluid-mechanics-3-34375,Advanced Fluid Mechanics 3: Potential Flows & Boundary Layers,edx,advanced
+/course/edx-cellular-solids-part-3-applications-in-nature-18135,Cellular Solids Part 3: Applications in Nature,edx,advanced
+/course/edx-cellular-solids-part-2-applications-in-medicine-5177,Cellular Solids Part 2: Applications in Medicine,edx,advanced
+/course/edx-cellular-solids-part-3-applications-in-nature-5182,Cellular Solids Part 3: Applications in Nature,edx,advanced
+/course/edx-capstone-exam-materials-for-electronic-optical-and-magnetic-devices-16966,"Capstone Exam – Materials for Electronic, Optical, and Magnetic Devices",edx,advanced
+/course/microstructural-evolution-in-materials-2-47901,Microstructural Evolution of Materials Part 2: Defects and Diffusion,edx,advanced
+/course/microstructural-evolution-of-materials-part-3-59064,Microstructural Evolution of Materials: Surfaces and Surface-Driven Reactions,edx,advanced
+/course/microstructural-evolution-of-materials-part-4-80075,Microstructural Evolution in Materials: Phase Transformations,edx,advanced
+/course/edx-computing-for-data-analysis-8223,Computing for Data Analysis,edx,advanced
+/course/edx-the-tabernacle-in-word-image-an-italian-jewish-manuscript-revealed-11462,The Tabernacle in Word & Image: An Italian Jewish Manuscript Revealed,edx,advanced
+/course/edx-introduction-to-analytics-modeling-8217,Introduction to Analytics Modeling,edx,advanced
+/course/edx-designing-and-leading-learning-systems-7243,Designing and Leading Learning Systems,edx,advanced
+/course/edx-multilevel-converters-for-medium-high-power-applications-10401,Multilevel Converters for Medium/High-Power Applications,edx,advanced
+/course/edx-robotics-vision-intelligence-and-machine-learning-8203,Robotics: Vision Intelligence and Machine Learning,edx,advanced
+/course/edx-robotics-dynamics-and-control-8196,Robotics: Dynamics and Control,edx,advanced
+/course/edx-robotics-locomotion-engineering-8204,Robotics: Locomotion Engineering,edx,advanced
+/course/edx-changing-minds-geographic-discoveries-and-new-worlds-through-the-eyes-of-a-renaissance-jewish-scholar-21211,Changing Minds: Geographic Discoveries and New Worlds through the Eyes of a Renaissance Jewish Scholar,edx,advanced
+/course/in-the-margins-of-a-medieval-jewish-prayer-book-w-53017,In the Margins of a Medieval Jewish Prayer Book:  What Can Physical Manuscripts Tell Us about History?,edx,advanced
+/course/edx-network-security-7858,Network Security,edx,advanced
+/course/edx-improvement-science-in-education-7244,Improvement Science in Education,edx,advanced
+/course/edx-leading-educational-innovation-and-improvement-capstone-7246,Leading Educational Innovation and Improvement Capstone,edx,advanced
+/course/edx-case-studies-in-continuous-educational-improvement-7245,Case Studies in Continuous Educational Improvement,edx,advanced
+/course/edx-big-data-and-education-968,Big Data and Education,edx,advanced
+/course/edx-making-government-work-in-hard-places-4562,Making Government Work in Hard Places,edx,advanced
+/course/edx-software-development-capstone-project-8198,Software Development Capstone Project,edx,advanced
+/course/edx-international-human-rights-law-2917,International Human Rights Law,edx,advanced
+/course/edx-effective-field-theory-2139,Effective Field Theory,edx,advanced
+/course/edx-paradigms-of-computer-programming-fundamentals-2298,Paradigms of Computer Programming – Fundamentals,edx,advanced
+/course/edx-paradigms-of-computer-programming-abstraction-and-concurrency-2630,Paradigms of Computer Programming – Abstraction and Concurrency,edx,advanced
+/course/edx-big-data-analytics-using-spark-8221,Big Data Analytics Using Spark,edx,advanced
+/course/edx-software-engineering-introduction-8205,Software Engineering: Introduction,edx,advanced
+/course/edx-writing-case-studies-science-of-delivery-4908,Writing Case Studies: Science of Delivery,edx,advanced
+/course/edx-digital-transformation-strategy-8208,Digital Transformation Strategy,edx,advanced
+/course/edx-simulation-neuroscience-9539,Simulation Neuroscience,edx,advanced
+/course/edx-data-analytics-for-business-8222,Data Analytics for Business,edx,advanced
+/course/edx-sparse-representations-in-image-processing-from-theory-to-practice-9135,Sparse Representations in Image Processing: From Theory to Practice,edx,advanced
+/course/edx-quantum-machine-learning-12860,Quantum Machine Learning,edx,advanced
+/course/edx-hypersonics-from-shock-waves-to-scramjets-1647,Hypersonics – from Shock Waves to Scramjets,edx,advanced
+/course/edx-product-management-with-lean-agile-and-system-design-thinking-8219,"Product Management with Lean, Agile and System Design Thinking",edx,advanced
+/course/edx-internationalization-creating-digital-content-for-the-world-14386,Internationalization: Creating Digital Content for the World,edx,advanced
+/course/edx-introduction-to-internationalization-and-localization-14385,Introduction to Internationalization and Localization,edx,advanced
+/course/edx-localization-adapting-digital-content-to-local-markets-14387,Localization: Adapting Digital Content to Local Markets,edx,advanced
+/course/edx-minerals-and-mining-in-a-sustainable-world-21001,Minerals and Mining in a Sustainable World,edx,advanced
+/course/edx-introduction-to-predictive-analytics-using-python-14420,Introduction to Predictive Analytics using Python,edx,advanced
+/course/stability-and-design-of-steel-frames-41000,Stability and Design of Structural Frames,edx,advanced
+/course/edx-fiber-optic-communications-17379,Fiber Optic Communications,edx,advanced
+/course/advanced-skills-for-the-use-of-biosimilars-and-bi-59784,Advanced Knowledge and Skills of Originator and Biosimilar Biologics: For Healthcare Providers,edx,advanced
+/course/edx-data-mining-theories-and-algorithms-for-tackling-big-data-8130,Data Mining: Theories and Algorithms for Tackling Big Data | 数据挖掘：理论与算法,edx,advanced
+/course/edx-autonomous-navigation-for-flying-robots-1911,Autonomous Navigation for Flying Robots,edx,advanced
+/course/the-program-manager-applying-power-skills-and-dig-58655,The Program Manager – Applying Power Skills and Digital Enablers to Create Continual Change,edx,advanced
+/course/edx-automated-software-testing-model-and-state-based-testing-12039,Automated Software Testing: Model and State-based Testing,edx,advanced
+/course/edx-co-creating-sustainable-cities-12638,Co-Creating Sustainable Cities,edx,advanced
+/course/edx-biospecimen-research-methods-7585,Biospecimen Research Methods,edx,advanced
+/course/edx-fundamentals-of-biomedical-imaging-magnetic-resonance-imaging-mri-7058,Fundamentals of Biomedical Imaging: Magnetic Resonance Imaging (MRI),edx,advanced
+/course/edx-a-resilient-future-science-and-technology-for-disaster-risk-reduction-7218,A Resilient Future: Science and Technology for Disaster Risk Reduction,edx,advanced
+/course/edx-dementia-and-diversity-in-primary-care-a-primer-guidelines-ethnic-differences-and-assessment-10468,"Dementia and Diversity in Primary Care: A Primer - Guidelines, Ethnic Differences, and Assessment",edx,advanced
+/course/edx-introduction-to-food-health-10467,Introduction To Food & Health,edx,advanced
+/course/operational-foundations-of-mining-21890,Operational Foundations of Mining,edx,advanced
+/course/edx-pricing-options-with-mathematical-models-2318,Pricing Options with Mathematical Models,edx,advanced
+/course/edx-predictive-analytics-4867,Predictive Analytics,edx,advanced
+/course/edx-discrete-time-signals-and-systems-part-1-time-domain-1236,"Discrete Time Signals and Systems, Part 1: Time Domain",edx,advanced
+/course/edx-chinese-cultural-communication-7370,汉语与文化交际 Chinese Cultural Communication,edx,advanced
+/course/edx-drug-discovery-and-its-target-4416,新药发现和药物靶点 | Drug Discovery and its Target,edx,advanced
+/course/edx-machine-learning-15170,Machine Learning,edx,advanced
+/course/edx-advanced-linear-algebra-foundations-to-frontiers-17390,Advanced Linear Algebra: Foundations to Frontiers,edx,advanced
+/course/edx-cybersecurity-risk-management-7845,Cybersecurity Risk Management,edx,advanced
+/course/edx-computer-forensics-7857,Computer Forensics,edx,advanced
+/course/edx-leaders-in-global-development-18100,Leaders in Global Development,edx,advanced
+/course/edx-adaptive-leadership-in-development-18102,Adaptive Leadership in Development,edx,advanced
+/course/edx-the-science-and-practice-of-sustainable-development-18101,The Science and Practice of Sustainable Development,edx,advanced
+/course/edx-critical-development-perspectives-18103,Critical Development Perspectives,edx,advanced
+/course/health-safety-and-wellness-in-mining-22045,"Health, Safety and Wellness in Mining",edx,advanced
+/course/leadership-and-diversity-in-mining-21929,Leadership and Diversity in Mining,edx,advanced
+/course/edx-business-analytics-for-data-driven-decision-making-8215,Business Analytics for Data-Driven Decision Making,edx,advanced
+/course/edx-international-humanitarian-law-7258,International Humanitarian Law,edx,advanced
+/course/edx-unconscious-bias-in-medicine-10455,Unconscious Bias in Medicine,edx,advanced
+/course/edx-drainage-in-agriculture-controlling-water-and-salt-levels-in-the-soil-13651,Drainage in Agriculture: controlling water and salt levels in the soil,edx,advanced
+/course/edx-the-postdoc-academy-succeeding-as-a-postdoc-17221,The Postdoc Academy: Succeeding as a Postdoc,edx,advanced
+/course/the-postdoc-academy-building-skills-for-a-success-47297,The Postdoc Academy: Building Skills for a Successful Career,edx,advanced
+/course/edx-international-investment-law-7259,International Investment Law,edx,advanced
+/course/edx-html5-apps-and-games-4671,HTML5 Apps and Games,edx,advanced
+/course/edx-buyer-behaviour-and-analysis-8170,Buyer Behaviour and Analysis,edx,advanced
+/course/edx-semiconductor-fundamentals-11697,Semiconductor Fundamentals,edx,advanced
+/course/edx-nanophotonic-modeling-6455,Nanophotonic Modeling,edx,advanced
+/course/edx-from-atoms-to-materials-predictive-theory-and-simulations-8729,From Atoms to Materials: Predictive Theory and Simulations,edx,advanced
+/course/edx-fundamentals-of-transistors-11882,Fundamentals of Transistors,edx,advanced
+/course/edx-the-physics-of-electronic-polymers-pep-8151,The Physics of Electronic Polymers (PEP),edx,advanced
+/course/edx-applied-quantum-computing-i-fundamentals-21183,Applied Quantum Computing I: Fundamentals,edx,advanced
+/course/edx-fundamentals-of-current-flow-11781,Fundamentals of Current Flow,edx,advanced
+/course/edx-introduction-to-quantum-transport-11881,Introduction to Quantum Transport,edx,advanced
+/course/bim-for-construction-52892,BIM for Construction,edx,advanced
+/course/fundamentals-of-building-information-modeling-52894,Fundamentals of Building Information Modeling,edx,advanced
+/course/edx-primer-on-rf-design-21143,Primer on RF Design,edx,advanced
+/course/edx-rf-system-design-21145,RF System Design,edx,advanced
+/course/edx-applied-quantum-computing-iii-algorithm-and-software-21186,Applied Quantum Computing III: Algorithm and Software,edx,advanced
+/course/introduction-to-deep-learning-2-33404,Introduction to Deep Learning,edx,advanced
+/course/edx-solid-state-devices-1-21011,Solid State Devices 1,edx,advanced
+/course/edx-boltzmann-law-physics-to-computing-21012,Boltzmann Law: Physics to Computing,edx,advanced
+/course/edx-applied-quantum-computing-ii-hardware-21185,Applied Quantum Computing II: Hardware,edx,advanced
+/course/computational-watershed-hydrology-53422,Computational Watershed Hydrology,edx,advanced
+/course/introduction-to-machine-learning-2-47957,Introduction to Scientific Machine Learning,edx,advanced
+/course/analysis-and-design-of-water-distribution-systems-33473,Analysis and Design of Water Distribution Systems,edx,advanced
+/course/edx-quantum-detectors-and-sensors-21181,Quantum Detectors and Sensors,edx,advanced
+/course/buckling-and-design-of-steel-members-40311,Stability and Design of Structural Members,edx,advanced
+/course/edx-rf-design-passive-and-active-components-21436,RF Design: Passive and Active Components,edx,advanced
+/course/plastics-in-infrastructure-and-the-environment-32157,Plastics in Infrastructure and the Environment,edx,advanced
+/course/groundwater-cycle-22590,Groundwater Cycle,edx,advanced
+/course/edx-quantum-detectors-21184,Quantum Detectors,edx,advanced
+/course/groundwater-contamination-22712,Groundwater Contamination,edx,advanced
+/course/wells-hydraulics-22713,Wells Hydraulics,edx,advanced
+/course/design-of-urban-storm-sewer-systems-33472,Design of Urban Water Management Structures,edx,advanced
+/course/design-of-sanitary-sewer-systems-33471,Design of Sanitary Sewer Systems,edx,advanced
+/course/elastic-buckling-and-behavior-of-members-35081,Elastic Stability and Behavior of Members,edx,advanced
+/course/computer-applications-of-artificial-intelligence--52912,Computer Applications of Artificial Intelligence and e-Construction,edx,advanced
+/course/computer-vision-for-embedded-systems-96635,Computer Vision for Embedded Systems,edx,advanced
+/course/the-program-management-office-pmo-the-strategy-ex-58654,The Program Management Office (PMO) - The Strategy Execution Arm,edx,advanced
+/course/benefits-realization-management-brm-linking-strat-58652,Creating an Organizational Change Management Framework - Transforming Strategy Execution to Realize Program Value,edx,advanced
+/course/edx-project-finance-funding-projects-successfully-8451,Project Finance: Funding Projects Successfully,edx,advanced
+/course/edx-project-management-mastering-complexity-8249,Project Management: Mastering Complexity,edx,advanced
+/course/edx-engineering-design-for-a-circular-economy-10282,Engineering Design for a Circular Economy,edx,advanced
+/course/edx-solar-energy-engineering-comprehensive-exams-19082,Solar Energy Engineering: Comprehensive Exams,edx,advanced
+/course/fundamentals-of-quantum-information-34203,Fundamentals of Quantum Information,edx,advanced
+/course/edx-neuronal-dynamics-2685,Neuronal Dynamics,edx,advanced
+/course/edx-micro-and-nanofabrication-mems-6880,Micro and Nanofabrication (MEMS),edx,advanced
+/course/edx-fundamentals-of-biomedical-imaging-ultrasounds-x-ray-positron-emission-tomography-pet-and-applications-7074,"Fundamentals of Biomedical Imaging: Ultrasounds, X-ray, positron emission tomography (PET) and applications",edx,advanced
+/course/edx-computational-neuroscience-neuronal-dynamics-of-cognition-10423,Computational Neuroscience: Neuronal Dynamics of Cognition,edx,advanced
+/course/edx-synchrotrons-and-x-ray-free-electron-lasers-part-1-10265,Synchrotrons and X-Ray Free Electron Lasers (part 1),edx,advanced
+/course/edx-the-multi-scale-brain-11380,The Multi-scale brain,edx,advanced
+/course/edx-teaching-science-and-engineering-12737,Teaching Science and Engineering,edx,advanced
+/course/edx-instructional-design-with-orchestration-graphs-20759,Instructional Design with Orchestration Graphs,edx,advanced
+/course/the-radio-sky-ii-observational-radio-astronomy-53085,The Radio Sky II: Observational Radio Astronomy,edx,advanced
+/course/simulating-a-hippocampus-microcircuit-58176,Simulating a Hippocampus Microcircuit,edx,advanced
+/course/selected-topics-on-discrete-choice-53237,Selected Topics on Discrete Choice,edx,advanced
+/course/sorption-and-transport-in-cementitious-materials-104271,Sorption and transport in cementitious materials,edx,advanced
+/course/edx-earthquake-seismology-7532,Earthquake Seismology,edx,advanced
+/course/edx-intellectual-property-rights-a-management-perspective-10254,Intellectual Property Rights: A Management Perspective,edx,advanced
+/course/edx-healthcare-in-india-strategic-perspectives-5298,Healthcare in India: Strategic Perspectives,edx,advanced
+/course/edx-advanced-corporate-strategy-13816,Advanced Corporate Strategy,edx,advanced
+/course/platform-business-models-40744,Platform Business Models,edx,advanced
+/course/economic-foundations-of-pricing-46429,Economic Foundations of Pricing,edx,advanced
+/course/edx-dementia-and-diversity-in-primary-care-latino-populations-10466,Dementia and Diversity in Primary Care: Latino Populations,edx,advanced
+/course/communicating-with-presence-62879,Communicating with Presence,edx,advanced
+/course/virtual-care-with-presence-62880,Virtual Care with Presence,edx,advanced
+/course/edx-sparse-representations-in-signal-and-image-processing-fundamentals-9133,Sparse Representations in Signal and Image Processing: Fundamentals,edx,advanced
+/course/edx-graphene-science-and-technology-2972,Graphene Science and Technology,edx,advanced
+/course/edx-electric-and-conventional-vehicles-10263,Electric and Conventional Vehicles,edx,advanced
+/course/edx-solar-resource-assessment-in-desert-climates-12495,Solar Resource Assessment in Desert Climates,edx,advanced
+/course/edx-from-brain-to-symptom-introduction-to-neuroscientific-psychiatry-11434,From Brain to Symptom – Introduction to Neuroscientific Psychiatry,edx,advanced
+/course/edx-financial-accounting-3915,Financial Accounting,edx,advanced
+/course/edx-digital-transformation-in-business-11674,Digital Transformation in Business,edx,advanced
+/course/edx-hybrid-vehicles-10285,Hybrid Vehicles,edx,advanced
+/course/edx-leading-ambitious-teaching-and-learning-7347,Leading Ambitious Teaching and Learning,edx,advanced
+/course/edx-user-experience-ux-design-human-factors-and-culture-in-design-2625,User Experience (UX) Design: Human Factors and Culture in Design | 设计的人因与文化,edx,advanced
+/course/edx-computational-geometry-5434,计算几何 | Computational Geometry,edx,advanced
+/course/design-of-mound-breakwaters-for-feasibility-studi-24333,Design of mound breakwaters for feasibility studies. Cubipod® Manual 2016,edx,advanced
+/course/digital-strategy-and-transformation-45918,Digital Strategy and Transformation,edx,advanced
+/course/leadership-in-the-digital-age-45919,Leadership in the Digital Age,edx,advanced
+/course/global-environment-and-trends-in-technological-in-45917,Global Environment and Trends in Technological Innovation,edx,advanced
+/course/edx-international-project-management-7289,International Project Management,edx,advanced
+/course/edx-data-analytics-and-visualization-in-health-care-13785,Data Analytics and Visualization in Health Care,edx,advanced
+/course/ultra-dense-networks-for-5g-and-its-evolution-59487,Ultra-dense networks for 5G and its evolution,edx,advanced
+/course/edx-asylum-and-refugee-law-21026,Asylum and Refugee Law,edx,advanced
+/course/modeling-and-simulation-of-multibody-systems-2-58370,Modeling and Simulation of Multibody Systems - Part II,edx,advanced
+/course/edx-circular-economy-an-interdisciplinary-approach-12457,Circular Economy: An Interdisciplinary Approach,edx,advanced
+/course/edx-biorefinery-from-biomass-to-building-blocks-of-biobased-products-11856,Biorefinery: From Biomass to Building Blocks of Biobased Products,edx,advanced
+/course/edx-from-fossil-resources-to-biomass-a-chemistry-perspective-12458,From Fossil Resources to Biomass: A Chemistry Perspective,edx,advanced
+/course/edx-nature-based-metropolitan-solutions-13240,Nature Based Metropolitan Solutions,edx,advanced
+/course/edx-catalytic-conversions-for-biobased-chemicals-and-products-11859,Catalytic Conversions for Biobased Chemicals and Products,edx,advanced
+/course/edx-from-fossil-resources-to-biomass-a-business-and-economics-perspective-11858,From Fossil Resources to Biomass: A Business and Economics Perspective,edx,advanced
+/course/edx-economics-and-policies-in-a-biobased-economy-12459,Economics and Policies in a Biobased Economy,edx,advanced
+/course/edx-business-strategy-and-operations-in-a-biobased-economy-12503,Business Strategy and Operations in a Biobased Economy,edx,advanced
+/course/edx-capstone-economics-and-policies-for-a-circular-economy-12460,Capstone Economics and Policies for a Circular Economy,edx,advanced
+/course/edx-capstone-chemistry-and-technology-for-sustainability-11857,Capstone Chemistry and Technology for Sustainability,edx,advanced
+/course/edx-capstone-business-and-operations-for-a-circular-bio-economy-17223,Capstone Business and Operations for a Circular Bio-Economy,edx,advanced
+/course/transformative-citizen-science-for-sustainability-96714,Transformative Citizen Science for Sustainability,edx,advanced
+/course/edx-online-marketing-strategies-8176,Online Marketing Strategies,edx,advanced
+/course/edx-strategic-brand-management-8186,Strategic Brand Management,edx,advanced
+/course/edx-the-minerals-and-mining-business-21144,The Minerals and Mining Business,edx,advanced
+/course/digital-transformation-of-mining-22096,Digital Transformation of Mining,edx,advanced
+/course/edx-quantum-cryptography-6334,Quantum Cryptography,edx,advanced
+/course/artificial-intelligence-algorithmic-information-a-47955,Understanding Artificial Intelligence through Algorithmic Information Theory,edx,advanced
+/course/edx-generative-modelling-17216,Generative Modelling,edx,advanced
+/course/edx-performative-modelling-17217,Performative Modelling,edx,advanced
+/course/edx-big-data-capstone-project-8159,Big Data Capstone Project,edx,advanced
+/course/edx-on-ramp-to-ap-french-language-and-culture-2536,On-Ramp to AP® French Language and Culture,edx,advanced
+/course/edx-ap-italian-language-and-culture-2022-2023-10238,AP® Italian Language and Culture (2022-2023),edx,advanced
+/course/edx-italian-language-and-culture-advanced-2021-2022-5315,Italian Language and Culture: Advanced (2021-2022),edx,advanced
+/course/edx-aws-developer-building-on-aws-10156,AWS Developer: Building on AWS,edx,advanced
+/course/edx-global-business-in-practice-7200,Global Business in Practice,edx,advanced
+/course/edx-sign-language-structure-learning-and-change-10411,"Sign Language Structure, Learning, and Change",edx,advanced
+/course/edx-knowledge-inference-and-structure-discovery-for-education-9288,Knowledge Inference and Structure Discovery for Education,edx,advanced
+/course/automated-and-connected-driving-challenges-110321,Automated and Connected Driving Challenges,edx,advanced
+/course/edx-aws-developer-deploying-on-aws-10158,AWS Developer: Deploying on AWS,edx,advanced
+/course/edx-introduction-to-statistical-methods-for-gene-mapping-5425,Introduction to Statistical Methods for Gene Mapping,edx,advanced
+/course/mobile-payment-security-21869,Mobile Payment Security,edx,advanced
+/course/edx-model-based-automotive-systems-engineering-10296,Model-Based Automotive Systems Engineering,edx,advanced
+/course/edx-enterprise-data-management-13169,Enterprise Data Management,edx,advanced
+/course/quantum-computer-systems-design-i-56652,Quantum Computer Systems Design I: Intro to Quantum Computation and Programming,edx,advanced
+/course/quantum-computer-systems-ii-56653,Quantum Computer Systems Design II: Principles of Quantum Architecture,edx,advanced
+/course/quantum-computer-systems-design-iii-56654,Quantum Computer Systems Design III: Working with Noisy Systems,edx,advanced
+/course/edx-sensor-fusion-and-non-linear-filtering-for-automotive-systems-10300,Sensor Fusion and Non-linear Filtering for Automotive Systems,edx,advanced
+/course/edx-entrepreneurial-leadership-toolbox-10288,Entrepreneurial Leadership Toolbox,edx,advanced
+/course/edx-multi-object-tracking-for-automotive-systems-10303,Multi-Object Tracking for Automotive Systems,edx,advanced
+/course/edx-dementia-and-diversity-in-primary-care-south-asian-american-populations-10457,Dementia and Diversity in Primary Care: South Asian American Populations,edx,advanced
+/course/edx-aws-developer-optimizing-on-aws-10160,AWS Developer: Optimizing on AWS,edx,advanced
+/course/water-surface-waves-finite-amplitude-waves-23206,Water Surface Waves: Finite-amplitude waves,edx,advanced
+/course/edx-decision-making-for-autonomous-systems-10305,Decision-Making for Autonomous Systems,edx,advanced
+/course/edx-monetary-policy-analysis-and-forecasting-19512,Monetary Policy Analysis and Forecasting,edx,advanced
+/course/edx-risk-management-and-credit-principles-12732,Risk Management and Credit Principles,edx,advanced
+/course/edx-model-based-systems-engineering-advanced-approaches-with-opm-13322,Model-based Systems Engineering: Advanced Approaches with OPM,edx,advanced
+/course/edx-hacking-postgresql-data-access-methods-9163,Hacking PostgreSQL: Data Access Methods,edx,advanced
+/course/edx-artistic-research-in-music-an-introduction-12311,Artistic Research in Music – an Introduction,edx,advanced
+/course/edx-computer-system-design-advanced-concepts-of-modern-microprocessors-7046,Computer System Design: Advanced Concepts of Modern Microprocessors,edx,advanced
+/course/edx-essentials-of-genomics-and-biomedical-informatics-13426,Essentials of Genomics and Biomedical Informatics,edx,advanced
+/course/edx-applied-deep-learning-capstone-project-11736,Applied Deep Learning Capstone Project,edx,advanced
+/course/edx-complex-analysis-with-physical-applications-8152,Complex Analysis with Physical Applications,edx,advanced
+/course/edx-energy-systems-integration-a-trend-or-a-revolution-12210,Energy Systems Integration: A Trend or a Revolution?,edx,advanced
+/course/edx-plasmonics-from-fundamentals-to-modern-applications-9627,Plasmonics: From Fundamentals to Modern Applications,edx,advanced
+/course/edx-using-photovoltaic-pv-technology-in-desert-climates-12497,Using Photovoltaic (PV) Technology in Desert Climates,edx,advanced
+/course/advanced-power-searching-with-google-21870,Advanced Power Searching With Google,edx,advanced
+/course/edx-application-of-iso-14001-for-waste-prevention-18045,Application of ISO 14001 for Waste Prevention,edx,advanced
+/course/edx-data-management-data-security-and-robot-operating-system-as-a-common-tool-for-iot-14395,"Data Management, Data Security and Robot Operating System as a Common Tool for IoT",edx,advanced
+/course/edx-industrial-policy-in-the-21st-century-the-challenge-for-africa-15124,Industrial Policy in the 21st Century: The Challenge for Africa,edx,advanced
+/course/topological-states-of-matter-96713,Topological Quantum Matter,edx,advanced
+/course/getting-the-right-person-58772,Recruiting and Selecting the Right Person,edx,advanced
+/course/modeling-and-simulation-of-multibody-systems-part-54546,Modeling and Simulation of Multibody Systems - Part I,edx,advanced
+/course/edx-reading-religious-conversion-12532,Reading Religious Conversion,edx,advanced
+/course/performance-motivation-57797,Performance and Motivation at Work,edx,advanced
+/course/generating-discrete-sequences-language-and-music-40996,Generating discrete sequences: language and music,edx,advanced
+/course/fixed-income-portfolio-management-47290,Fixed Income Portfolio Management,edx,advanced
+/course/financial-analysis-of-insurance-companies-industr-39312,Financial Analysis of Insurance Companies – Industry Overview and Analysis of Financial and Regulatory Reporting,edx,advanced
+/course/unleashing-creativity-in-the-workplace-22158,Unleashing Creativity at the Workplace,edx,advanced
+/course/leading-for-success-58773,Leadership for Contemporary Organizations,edx,advanced
+/course/supporting-wellbeing-58774,Supporting Employee Wellbeing,edx,advanced
+/course/advanced-bayesian-statistics-using-r-58170,Advanced Bayesian Statistics Using R,edx,advanced
+/course/learning-change-innovation-58804,Organizational Change & Innovation,edx,advanced
+/course/natural-disaster-and-climate-change-risk-assessme-55817,Natural Disaster and Climate Change Risk Assessment in Infrastructure Projects,edx,advanced
+/course/edx-applications-of-quantum-mechanics-12749,Applications of Quantum Mechanics,edx,advanced
+/course/edx-data-analysis-for-social-scientists-6842,Data Analysis for Social Scientists,edx,advanced
+/course/edx-how-to-survive-your-phd-3951,How to Survive Your PhD,edx,advanced
+/course/edx-quantum-mechanics-1d-scattering-and-central-potentials-8769,Quantum Mechanics: 1D Scattering and Central Potentials,edx,advanced
+/course/edx-deep-learning-21172,Deep Learning,edx,advanced
+/course/edx-robot-mechanics-and-control-part-i-1785,"Robot Mechanics and Control, Part I",edx,advanced
+/course/edx-spiritual-competency-training-in-mental-health-13830,Spiritual Competency Training in Mental Health,edx,advanced
+/course/edx-ratio-analysis-12733,Ratio Analysis,edx,advanced
+/course/edx-cash-flow-analysis-12734,Cash Flow Analysis,edx,advanced
+/course/edx-m-a-professional-certificate-examination-3970,M&A Professional Certificate Examination,edx,advanced
+/course/edx-projections-and-structuring-12735,Projections and Structuring,edx,advanced
+/course/edx-credit-and-credit-risk-analysis-professional-certificate-examination-12754,Credit and Credit Risk Analysis Professional Certificate Examination,edx,advanced
+/course/insurance-reserving-risk-management-and-analysis--39310,"Insurance Reserving, Risk Management and Analysis of Key Performance and Financial Indicators",edx,advanced
+/course/portfolio-management-theory-practice-part-1-47292,Portfolio Management - Theory & Practice (Part 1),edx,advanced
+/course/financial-analysis-of-insurance-companies-profess-39311,Financial Analysis of Insurance Companies Professional Certificate Examination,edx,advanced
+/course/hedge-funds-47294,Hedge Funds,edx,advanced
+/course/equity-portfolio-management-47295,Equity Portfolio Management,edx,advanced
+/course/portfolio-management-theory-practice-part-2-47291,Portfolio Management - Theory & Practice (Part 2),edx,advanced
+/course/portfolio-management-professional-certificate-exa-47293,Portfolio Management Professional Certificate Examination,edx,advanced
+/course/edx-hydraulique-fluviale-1-ecoulements-a-surface-libre-8524,Hydraulique fluviale 1 - Écoulements à surface libre,edx,advanced
+/course/edx-mastering-quantum-mechanics-2171,Mastering Quantum Mechanics,edx,advanced
+/course/edx-machine-learning-7231,Machine Learning,edx,advanced
+/course/edx-artificial-intelligence-ai-7230,Artificial Intelligence (AI),edx,advanced
+/course/programacion-concurrente-46422,Programación Concurrente,edx,advanced
+/course/edx-diseno-de-diques-rompeolas-con-cubipodos-11368,Diseño de diques rompeolas con cubípodos,edx,advanced
+/course/edx-recits-d-urbanisme-et-question-des-communs-10343,Récits d'urbanisme et question des communs,edx,advanced
+/course/edx-redes-de-difraccion-en-comunicaciones-opticas-5838,Redes de difracción en comunicaciones ópticas,edx,advanced
+/course/cell-biology-4-53859,Cell Biology: Cell-Cell Interactions,edx,advanced
+/course/edx-quantum-mechanics-wavefunctions-operators-and-expectation-values-8766,"Quantum Mechanics: Wavefunctions, Operators, and Expectation Values",edx,advanced
+/course/edx-quantum-mechanics-a-first-course-20822,Quantum Mechanics: A First Course,edx,advanced
+/course/edx-electrotechnique-ii-1618,Electrotechnique II,edx,advanced
+/course/edx-entrepreneurial-mindset-21193,Entrepreneurial Mindset,edx,advanced
+/course/edx-quantum-information-science-ii-efficient-quantum-computing-fault-tolerance-and-complexity-11410,Quantum Information Science II: Efficient Quantum Computing - fault tolerance and complexity,edx,advanced
+/course/edx-foundations-of-development-policy-3923,Foundations of Development Policy,edx,advanced
+/course/edx-ortodoncia-tratamientos-dentales-sencillos-para-casos-complejos-11414,Ortodoncia: tratamientos dentales sencillos para casos complejos,edx,advanced
+/course/edx-mecanique-des-fluides-1622,Mécanique des Fluides,edx,advanced
+/course/edx-introduction-a-l-immunologie-aspects-fondamentaux-16954,Introduction à l'immunologie: aspects fondamentaux,edx,advanced
+/course/edx-introduction-a-l-immunologie-methodes-et-applications-medicales-16953,Introduction à l'immunologie: méthodes et applications médicales,edx,advanced
+/course/business-intelligence-con-la-product-suite-di-tab-46060,Inteligencia empresarial con Tableau,edx,advanced
+/course/edx-business-intelligence-con-la-product-suite-di-tableau-21173,Business Intelligence con la Product Suite di Tableau,edx,advanced
+/course/estrategia-de-posicionamiento-40-58330,Estrategia de Posicionamiento 4.0,edx,advanced
+/course/arquitectura-de-la-informacion-y-datos-digitales-58328,Arquitectura de la información y datos digitales,edx,advanced
+/course/edx-finite-element-method-fem-analysis-and-applications-4064,有限元分析与应用 | Finite Element Method (FEM) Analysis and Applications,edx,advanced
+/course/edx-informacion-financiera-y-su-analisis-20114,Información financiera y su análisis,edx,advanced
+/course/edx-mentalidad-emprendedora-17204,Mentalidad Emprendedora,edx,advanced
+/course/edx-introduccion-a-matematicas-para-finanzas-y-negocios-20116,Introducción a Matemáticas para Finanzas y Negocios,edx,advanced
+/course/edx-diseno-e-innovacion-de-modelo-de-negocios-17209,Diseño e innovación de modelo de negocios,edx,advanced
+/course/edx-introduccion-a-ciencias-de-datos-y-estadistica-basica-para-negocios-20115,Introducción a Ciencias de Datos y Estadística Básica para Negocios,edx,advanced
+/course/edx-innovacion-y-creatividad-organizacional-17208,Innovación y creatividad organizacional,edx,advanced
+/course/edx-emprendimiento-corporativo-17210,Emprendimiento Corporativo,edx,advanced
+/course/edx-estrategia-y-transformacion-digital-21334,Estrategia y Transformación Digital,edx,advanced
+/course/principios-de-economia-aplicados-a-negocios-48083,Principios de Economía aplicados a Negocios,edx,advanced
+/course/introduction-to-mathematics-for-finance-and-busin-37579,Introduction to Mathematics for Finance and Business,edx,advanced
+/course/algoritmica-basica-48081,Algoritmos y Programación en R,edx,advanced
+/course/edx-design-and-innovation-of-business-model-21192,Design and innovation of business model,edx,advanced
+/course/edx-liderazgo-en-la-era-digital-21335,Liderazgo en la Era Digital,edx,advanced
+/course/modelos-de-regresion-lineal-y-pronosticos-48082,Modelos de Regresión Lineal y Pronósticos,edx,advanced
+/course/edx-entorno-global-y-tendencias-de-innovacion-tecnologica-21333,Entorno Global y Tendencias de Innovación Tecnológica,edx,advanced
+/course/introduction-to-data-science-and-basic-statistics-37578,Introduction to Data Science and Basic Statistics for Business,edx,advanced
+/course/edx-corporate-entrepreneurship-21195,Corporate Entrepreneurship,edx,advanced
+/course/financial-information-and-its-analysis-37577,Financial information and its analysis,edx,advanced
+/course/edx-organizational-innovation-and-creativity-21194,Organizational innovation and creativity,edx,advanced
+/course/edx-animation-and-cgi-motion-7242,Animation and CGI Motion,edx,advanced
+/course/edx-data-analysis-in-social-science-assessing-your-knowledge-11481,Data Analysis in Social Science—Assessing Your Knowledge,edx,advanced
+/course/edx-political-economy-and-economic-development-14391,Political Economy and Economic Development,edx,advanced
+/course/edx-supply-chains-for-manufacturing-capacity-analytics-10297,Supply Chains for Manufacturing: Capacity Analytics,edx,advanced
+/course/edx-quantum-mechanics-quantum-physics-in-1d-potentials-8768,Quantum Mechanics: Quantum physics in 1D Potentials,edx,advanced
+/course/edx-capstone-exam-in-statistics-and-data-science-11484,Capstone Exam in Statistics and Data Science,edx,advanced
+/course/edx-atomic-and-optical-physics-quantum-states-and-dynamics-of-photons-8066,Atomic and Optical Physics: Quantum States and Dynamics of Photons,edx,advanced
+/course/edx-quantum-information-science-ii-quantum-states-noise-and-error-correction-11367,"Quantum Information Science II: Quantum states, noise and error correction",edx,advanced
+/course/edx-atomic-and-optical-physics-atom-photon-interactions-8112,Atomic and Optical Physics: Atom-photon interactions,edx,advanced
+/course/edx-quantum-information-science-ii-advanced-quantum-algorithms-and-information-theory-11411,Quantum Information Science II: Advanced quantum algorithms and information theory,edx,advanced
+/course/edx-atomic-and-optical-physics-ultracold-atoms-and-many-body-physics-8286,Atomic and Optical Physics: Ultracold Atoms and Many-body Physics,edx,advanced
+/course/edx-atomic-and-optical-physics-light-forces-and-laser-cooling-8288,Atomic and Optical Physics: Light Forces and Laser Cooling,edx,advanced
+/course/edx-atomic-and-optical-physics-optical-bloch-equations-and-open-system-dynamics-8113,Atomic and Optical Physics: Optical Bloch Equations and Open System Dynamics,edx,advanced
+/course/edx-quantum-information-science-ii-6958,Quantum Information Science II,edx,advanced
+/course/edx-analysis-of-transport-phenomena-ii-applications-19178,Analysis of Transport Phenomena II: Applications,edx,advanced
+/course/machine-learning-for-healthcare-33547,Machine Learning for Healthcare,edx,advanced
+/course/edx-del-trazo-caligrafico-al-metodo-paleografico-experimentando-la-materialidad-de-los-manuscritos-historicos-20959,Del trazo caligráfico al método paleográfico: experimentando la materialidad de los manuscritos históricos,edx,advanced
+/course/la-geografia-del-trazo-de-la-exploracion-paleogra-53082,La geografía del trazo: de la exploración paleográfica histórica a la creatividad caligráfica,edx,advanced
+/course/forma-poetica-y-funcion-practica-del-trazo-manusc-110319,Forma poética y función práctica del trazo manuscrito,edx,advanced
+/course/edx-l-eau-et-les-sols-hydrodynamique-des-milieux-poreux-6987,L’eau et les sols - Hydrodynamique des milieux poreux,edx,advanced
+/course/edx-droit-d-asile-et-des-refugies-16931,Droit d’asile et des réfugiés,edx,advanced
+/course/edx-hydraulique-fluviale-2-sediments-et-morphologie-fluviale-8522,Hydraulique fluviale 2 : Sédiments et morphologie fluviale,edx,advanced
+/course/edx-gobernanza-de-datos-personales-en-la-era-digital-16956,Gobernanza de datos personales en la era digital,edx,advanced
+/course/edx-programmation-ios-partie-i-8131,Programmation iOS (partie I),edx,advanced
+/course/analisis-de-riesgos-de-desastres-naturales-y-camb-21898,Análisis del riesgo de desastres y cambio climático en proyectos de infraestructura,edx,advanced
+/course/edx-programmation-concurrente-avec-java-8369,Programmation Concurrente (avec Java),edx,advanced
+/course/edx-programmation-ios-partie-ii-8528,Programmation iOS (partie II),edx,advanced
+/course/edx-strategic-social-media-marketing-8212,Strategic Social Media Marketing,edx,advanced
+/course/edx-robotics-7241,Robotics,edx,advanced
+/course/edx-introduction-to-continuum-physics-8287,Introduction to Continuum Physics,edx,advanced
+/course/edx-c-programming-c-3243,C++ Programming | C++程序设计,edx,advanced
+/course/edx-data-structures-and-algorithms-part-2-2693,数据结构与算法第二部分 | Data Structures and Algorithms Part 2,edx,advanced
+/course/edx-introduction-to-theoretical-computer-science-2436,理论计算机科学基础 | Introduction to Theoretical Computer Science,edx,advanced
+/course/edx-fundamental-algorithms-3244,算法基础 | Fundamental Algorithms,edx,advanced
+/course/edx-atomic-and-optical-physics-i-part-2-atomic-structure-and-atoms-in-external-field-4383,Atomic and Optical Physics I – Part 2: Atomic structure and atoms in external field,edx,advanced
+/course/edx-marketing-analytics-8214,Marketing Analytics,edx,advanced
+/course/edx-data-models-and-decisions-in-business-analytics-8218,"Data, Models and Decisions in Business Analytics",edx,advanced
+/course/edx-atomic-and-optical-physics-i-part-1-resonance-4086,Atomic and Optical Physics I– Part 1: Resonance,edx,advanced
+/course/edx-atomic-and-optical-physics-i-part-3-atom-light-interactions-1-matrix-elements-and-quantized-field-4384,Atomic and Optical Physics I– Part 3: Atom-Light Interactions 1 -- Matrix elements and quantized field,edx,advanced
+/course/edx-atomic-and-optical-physics-i-part-4-atom-light-interactions-2-line-broadening-and-two-photon-transitions-4385,Atomic and Optical Physics I– Part 4: Atom-Light Interactions 2: Line Broadening and Two-Photon Transitions,edx,advanced
+/course/edx-atomic-and-optical-physics-i-part-5-coherence-4386,Atomic and Optical Physics I – Part 5: Coherence,edx,advanced
+/course/edx-successfully-evaluating-predictive-modelling-14421,Successfully Evaluating Predictive Modelling,edx,advanced
+/course/edx-marketing-management-7275,Marketing Management,edx,advanced
+/course/edx-leadership-and-influence-11672,Leadership and Influence,edx,advanced
+/course/edx-predictive-analytics-using-machine-learning-14423,Predictive Analytics using Machine Learning,edx,advanced
+/course/edx-statistical-predictive-modelling-and-applications-14422,Statistical Predictive Modelling and Applications,edx,advanced
+/course/edx-cybersecurity-capstone-7873,Cybersecurity Capstone,edx,advanced
+/course/edx-driving-digital-innovation-through-experimentation-8207,Driving Digital Innovation through Experimentation,edx,advanced
+/course/design-of-steel-concrete-composite-structures-22576,Design of Steel-Concrete Composite Structures,edx,advanced
+/course/connections-in-steel-structures-22579,Connections in Steel Structures,edx,advanced
+/course/fundamentals-of-prestressed-concrete-22578,Fundamentals of Prestressed Concrete,edx,advanced
+/course/steel-beam-and-plate-girder-design-22581,Steel Beam and Plate Girder Design,edx,advanced
+/course/post-tensioned-structures-22577,Post-Tensioned Structures,edx,advanced
+/course/biological-principles-in-wastewater-treatment-48249,Biological Principles in Wastewater Treatment,edx,advanced
+/course/pretensioned-structures-22580,Pretensioned Structures,edx,advanced
+/course/modern-biotechnologies-for-wastewater-treatmen-48248,Modern Biotechnologies for Wastewater Treatment,edx,advanced
+/course/nutrient-removal-and-resource-recovery-in-wastewa-48247,Nutrient Removal and Resource Recovery in Wastewater,edx,advanced
+/course/smart-logistics-and-supply-chains-51846,Smart Logistics and Supply Chains,edx,advanced
+/course/lighting-and-daylighting-design-of-buildings-34260,Lighting and Daylighting Design of Buildings,edx,advanced
+/course/corporate-renewable-procurement-opportunities-in--22098,Corporate Renewable Procurement: Opportunities in India,edx,advanced
+/course/edx-data-analysis-for-decision-making-11673,Data Analysis for Decision Making,edx,advanced
+/course/edx-corporate-finance-11675,Corporate Finance,edx,advanced
+/course/edx-global-business-strategy-11676,Global Business Strategy,edx,advanced
+/course/edx-project-management-micromasters-capstone-exam-8251,Project Management MicroMasters Capstone Exam,edx,advanced
+/course/edx-natural-language-processing-and-language-understanding-in-educational-research-9136,Natural Language Processing and Language Understanding in Educational Research,edx,advanced
+/course/edx-integrated-digital-media-capstone-13441,Integrated Digital Media Capstone,edx,advanced
+/course/edx-financial-reporting-i-13787,Financial Reporting I,edx,advanced
+/course/edx-road-traffic-safety-in-automotive-engineering-10290,Road Traffic Safety in Automotive Engineering,edx,advanced
+/course/edx-taxes-and-decision-making-13789,Taxes and Decision Making,edx,advanced
+/course/edx-managerial-accounting-and-corporate-control-13788,Managerial Accounting and Corporate Control,edx,advanced
+/course/edx-global-marketing-strategy-7263,Global Marketing Strategy,edx,advanced
+/course/selected-chapters-of-quantum-mechanics-for-modern-59489,Selected chapters of quantum mechanics for modern engineering,edx,advanced
+/course/personal-identification-in-forensics-current-prob-58283,Personal Identification in Forensics: Current Problems and Trends,edx,advanced
+/course/edx-predictive-analytics-final-project-14424,Predictive Analytics Final Project,edx,advanced
+/course/edx-design-leadership-and-innovation-6647,Design Leadership and Innovation,edx,advanced
+/course/edx-how-to-save-a-life-pediatric-advanced-life-support-5202,How to Save a Life: Pediatric Advanced Life Support,edx,advanced
+/course/edx-capstone-assessment-leadership-in-global-development-8657,Capstone Assessment: Leadership in Global Development,edx,advanced
